@@ -1,0 +1,713 @@
+﻿Age Exact,Alone/Family,Embarked,Full Name,Gender,Group,Name,Pclass,Survived,Age,Family,Fare,Survival Count
+38,Family,Cherbourg,Cumings John Bradley,Female,Women,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",First Class,Survived,38,1,71.2833,1
+14,Family,Cherbourg,Nasser Nicholas,Female,Children,"Nasser, Mrs. Nicholas (Adele Achem)",Second Class,Survived,14,1,30.0708,1
+40,Alone,Cherbourg,Uruchurtu Manuel E,Male,Men,"Uruchurtu, Don. Manuel E",First Class,Died,40,0,27.7208,
+28,Family,Cherbourg,Meyer Edgar Joseph,Male,Men,"Meyer, Mr. Edgar Joseph",First Class,Died,28,1,82.1708,
+14,Family,Cherbourg,Nicola-Yarred Jamila,Female,Children,"Nicola-Yarred, Miss. Jamila",Third Class,Survived,14,1,11.2417,1
+3,Family,Cherbourg,Laroche Simonne Marie Anne Andree,Female,Children,"Laroche, Miss. Simonne Marie Anne Andree",Second Class,Survived,3,3,41.5792,1
+49,Family,Cherbourg,Harper Henry Sleeper,Female,Women,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",First Class,Survived,49,1,76.7292,1
+65,Family,Cherbourg,Ostby Engelhart Cornelius,Male,Men,"Ostby, Mr. Engelhart Cornelius",First Class,Died,65,1,61.9792,
+29,Alone,Cherbourg,Novel Mansouer,Male,Men,"Novel, Mr. Mansouer",Third Class,Died,29,0,7.2292,
+22,Alone,Cherbourg,Sirayanian Orsen,Male,Men,"Sirayanian, Mr. Orsen",Third Class,Died,22,0,7.2292,
+26,Family,Cherbourg,Chronopoulos Apostolos,Male,Men,"Chronopoulos, Mr. Apostolos",Third Class,Died,26,1,14.4542,
+71,Alone,Cherbourg,Goldschmidt George B,Male,Men,"Goldschmidt, Mr. George B",First Class,Died,71,0,34.6542,
+23,Family,Cherbourg,Greenfield William Bertram,Male,Men,"Greenfield, Mr. William Bertram",First Class,Survived,23,1,63.3583,1
+15,Family,Cherbourg,Zabour Hileni,Female,Children,"Zabour, Miss. Hileni",Third Class,Died,15,1,14.4542,
+17,Alone,Cherbourg,Attalah Malake,Female,Children,"Attalah, Miss. Malake",Third Class,Died,17,0,14.4583,
+24,Family,Cherbourg,Baxter Quigg Edmond,Male,Men,"Baxter, Mr. Quigg Edmond",First Class,Died,24,1,247.5208,
+33,Family,Cherbourg,Nasser Nicholas,Male,Men,"Nasser, Mr. Nicholas",Second Class,Died,33,1,30.0708,
+12,Family,Cherbourg,Nicola-Yarred Elias,Male,Children,"Nicola-Yarred, Master. Elias",Third Class,Survived,12,1,11.2417,1
+33,Alone,Cherbourg,Drazenoic Jozef,Male,Men,"Drazenoic, Mr. Jozef",Third Class,Died,33,0,7.8958,
+23,Alone,Cherbourg,Richard Emile,Male,Men,"Richard, Mr. Emile",Second Class,Died,23,0,15.0458,
+24,Alone,Cherbourg,Giglio Victor,Male,Men,"Giglio, Mr. Victor",First Class,Died,24,0,79.2,
+51,Family,Cherbourg,Williams Charles Duane,Male,Men,"Williams, Mr. Charles Duane",First Class,Died,51,1,61.3792,
+56,Alone,Cherbourg,Smith James Clinch,Male,Men,"Smith, Mr. James Clinch",First Class,Died,56,0,30.6958,
+50,Alone,Cherbourg,Isham Ann Elizabeth,Female,Women,"Isham, Miss. Ann Elizabeth",First Class,Died,50,0,28.7125,
+44,Alone,Cherbourg,Brown James Joseph,Female,Women,"Brown, Mrs. James Joseph (Margaret Tobin)",First Class,Survived,44,0,27.7208,1
+58,Alone,Cherbourg,Lurette Elise,Female,Women,"Lurette, Miss. Elise",First Class,Survived,58,0,146.5208,1
+46,Alone,Cherbourg,Youseff Gerious,Male,Men,"Youseff, Mr. Gerious",Third Class,Died,46,0,7.225,
+26,Alone,Cherbourg,Albimona Nassef Cassem,Male,Men,"Albimona, Mr. Nassef Cassem",Third Class,Survived,26,0,18.7875,1
+40,Alone,Cherbourg,Blank Henry,Male,Men,"Blank, Mr. Henry",First Class,Survived,40,0,31,1
+31,Family,Cherbourg,Newell Madeleine,Female,Women,"Newell, Miss. Madeleine",First Class,Survived,31,1,113.275,1
+32,Alone,Cherbourg,Bazzani Albina,Female,Women,"Bazzani, Miss. Albina",First Class,Survived,32,0,76.2917,1
+30,Alone,Cherbourg,Attalah Sleiman,Male,Men,"Attalah, Mr. Sleiman",Third Class,Died,30,0,7.225,
+29,Family,Cherbourg,Touma Darwis,Female,Women,"Touma, Mrs. Darwis (Hanne Youssef Razi)",Third Class,Survived,29,2,15.2458,1
+35,Alone,Cherbourg,Ward Anna,Female,Women,"Ward, Miss. Anna",First Class,Survived,35,0,512.3292,1
+37,Family,Cherbourg,Natsch Charles H,Male,Men,"Natsch, Mr. Charles H",First Class,Died,37,1,29.7,
+33,Alone,Cherbourg,Stankovic Ivan,Male,Men,"Stankovic, Mr. Ivan",Third Class,Died,33,0,8.6625,
+19,Family,Cherbourg,Bishop Dickinson H,Female,Women,"Bishop, Mrs. Dickinson H (Helen Walton)",First Class,Survived,19,1,91.0792,1
+36,Alone,Cherbourg,Levy Rene Jacques,Male,Men,"Levy, Mr. Rene Jacques",Second Class,Died,36,0,12.875,
+24,Alone,Cherbourg,Hanna Mansour,Male,Men,"Hanna, Mr. Mansour",Third Class,Died,24,0,7.2292,
+50,Family,Cherbourg,Baxter James,Female,Women,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",First Class,Survived,50,1,247.5208,1
+17,Family,Cherbourg,Penasco y Castellana Victor de Satode,Female,Children,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",First Class,Survived,17,1,108.9,1
+30,Family,Cherbourg,Abelson Samuel,Male,Men,"Abelson, Mr. Samuel",Second Class,Died,30,1,24,
+30,Alone,Cherbourg,Francatelli Laura Mabel,Female,Women,"Francatelli, Miss. Laura Mabel",First Class,Survived,30,0,56.9292,1
+24,Alone,Cherbourg,Hays Margaret Bechstein,Female,Women,"Hays, Miss. Margaret Bechstein",First Class,Survived,24,0,83.1583,1
+18,Family,Cherbourg,Ryerson Emily Borie,Female,Women,"Ryerson, Miss. Emily Borie",First Class,Survived,18,4,262.375,1
+40,Family,Cherbourg,Spedden Frederic Oakley,Female,Women,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",First Class,Survived,40,2,134.5,1
+36,Alone,Cherbourg,Young Marie Grice,Female,Women,"Young, Miss. Marie Grice",First Class,Survived,36,0,135.6333,1
+16,Family,Cherbourg,Hippach Jean Gertrude,Female,Children,"Hippach, Miss. Jean Gertrude",First Class,Survived,16,1,57.9792,1
+41,Alone,Cherbourg,Burns Elizabeth Margaret,Female,Women,"Burns, Miss. Elizabeth Margaret",First Class,Survived,41,0,134.5,1
+15,Family,Cherbourg,Elias Tannous,Male,Children,"Elias, Mr. Tannous",Third Class,Died,15,2,7.2292,
+29,Family,Cherbourg,del Carlo Sebastiano,Male,Men,"del Carlo, Mr. Sebastiano",Second Class,Died,29,1,27.7208,
+45,Family,Cherbourg,Barbara ,Female,Women,"Barbara, Mrs. (Catherine David)",Third Class,Died,45,1,14.4542,
+60,Family,Cherbourg,Warren Frank Manley,Female,Women,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",First Class,Survived,60,1,75.25,1
+24,Alone,Cherbourg,Aubart Leontine Pauline,Female,Women,"Aubart, Mme. Leontine Pauline",First Class,Survived,24,0,69.3,1
+25,Family,Cherbourg,Harder George Achilles,Male,Men,"Harder, Mr. George Achilles",First Class,Survived,25,1,55.4417,1
+22,Alone,Cherbourg,Ringhini Sante,Male,Men,"Ringhini, Mr. Sante",First Class,Died,22,0,135.6333,
+27,Family,Cherbourg,Widener Harry Elkins,Male,Men,"Widener, Mr. Harry Elkins",First Class,Died,27,2,211.5,
+20,Alone,Cherbourg,Betros Tannous,Male,Men,"Betros, Mr. Tannous",Third Class,Died,20,0,4.0125,
+42,Alone,Cherbourg,Bidois Rosalie,Female,Women,"Bidois, Miss. Rosalie",First Class,Survived,42,0,227.525,1
+1,Family,Cherbourg,Nakid Maria,Female,Children,"Nakid, Miss. Maria (""Mary"")",Third Class,Survived,1,2,15.7417,1
+17,Alone,Cherbourg,Lehmann Bertha,Female,Children,"Lehmann, Miss. Bertha",Second Class,Survived,17,0,12,1
+23,Family,Cherbourg,Newell Marjorie,Female,Women,"Newell, Miss. Marjorie",First Class,Survived,23,1,113.275,1
+5,Family,Cherbourg,Baclini Marie Catherine,Female,Children,"Baclini, Miss. Marie Catherine",Third Class,Survived,5,3,19.2583,1
+30,Alone,Cherbourg,Foreman Benjamin Laventall,Male,Men,"Foreman, Mr. Benjamin Laventall",First Class,Died,30,0,27.75,
+49,Family,Cherbourg,Goldenberg Samuel L,Male,Men,"Goldenberg, Mr. Samuel L",First Class,Survived,49,1,89.1042,1
+29,Alone,Cherbourg,Jalsevac Ivan,Male,Men,"Jalsevac, Mr. Ivan",Third Class,Survived,29,0,7.8958,1
+1,Family,Cherbourg,Baclini Helene Barbara,Female,Children,"Baclini, Miss. Helene Barbara",Third Class,Survived,1,3,19.2583,1
+23,Alone,Cherbourg,Jerwan Amin S,Female,Women,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",Second Class,Survived,23,0,13.7917,1
+25,Family,Cherbourg,Bishop Dickinson H,Male,Men,"Bishop, Mr. Dickinson H",First Class,Survived,25,1,91.0792,1
+58,Alone,Cherbourg,Kent Edward Austin,Male,Men,"Kent, Mr. Edward Austin",First Class,Died,58,0,29.7,
+71,Alone,Cherbourg,Artagaveytia Ramon,Male,Men,"Artagaveytia, Mr. Ramon",First Class,Died,71,0,49.5042,
+54,Family,Cherbourg,Eustis Elizabeth Mussey,Female,Women,"Eustis, Miss. Elizabeth Mussey",First Class,Survived,54,1,78.2667,1
+18,Family,Cherbourg,Penasco y Castellana Victor de Satode,Male,Men,"Penasco y Castellana, Mr. Victor de Satode",First Class,Died,18,1,108.9,
+54,Family,Cherbourg,Rothschild Martin,Female,Women,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",First Class,Survived,54,1,59.4,1
+44,Family,Cherbourg,Hippach Louis Albert,Female,Women,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",First Class,Survived,44,1,57.9792,1
+17,Family,Cherbourg,Elias Joseph Jr,Male,Children,"Elias, Mr. Joseph Jr",Third Class,Died,17,2,7.2292,
+30,Alone,Cherbourg,LeRoy Bertha,Female,Women,"LeRoy, Miss. Bertha",First Class,Survived,30,0,106.425,1
+22,Family,Cherbourg,Frolicher Hedwig Margaritha,Female,Women,"Frolicher, Miss. Hedwig Margaritha",First Class,Survived,22,2,49.5,1
+50,Family,Cherbourg,Douglas Walter Donald,Male,Men,"Douglas, Mr. Walter Donald",First Class,Died,50,1,106.425,
+17,Family,Cherbourg,Thayer John Borland Jr,Male,Children,"Thayer, Mr. John Borland Jr",First Class,Survived,17,2,110.8833,1
+22,Alone,Cherbourg,Leeni Fahim,Male,Men,"Leeni, Mr. Fahim (""Philip Zenni"")",Third Class,Survived,22,0,7.225,1
+48,Family,Cherbourg,Duff Gordon ,Female,Women,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",First Class,Survived,48,1,39.6,1
+39,Family,Cherbourg,Thayer John Borland,Female,Women,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",First Class,Survived,39,2,110.8833,1
+36,Alone,Cherbourg,Ross John Hugo,Male,Men,"Ross, Mr. John Hugo",First Class,Died,36,0,40.125,
+60,Family,Cherbourg,Frolicher-Stehli Maxmillian,Male,Men,"Frolicher-Stehli, Mr. Maxmillian",First Class,Survived,60,2,79.2,1
+52,Family,Cherbourg,Stephenson Walter Bertram,Female,Women,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",First Class,Survived,52,1,78.2667,1
+49,Family,Cherbourg,Duff Gordon Cosmo Edmund,Male,Men,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",First Class,Survived,49,1,56.9292,1
+35,Alone,Cherbourg,Homer Harry,Male,Men,"Homer, Mr. Harry (""Mr E Haven"")",First Class,Survived,35,0,26.55,1
+22,Family,Cherbourg,Laroche Joseph,Female,Women,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",Second Class,Survived,22,3,41.5792,1
+27,Family,Cherbourg,Yasbeck Antoni,Male,Men,"Yasbeck, Mr. Antoni",Third Class,Died,27,1,14.4542,
+20,Family,Cherbourg,Nakid Sahid,Male,Men,"Nakid, Mr. Sahid",Third Class,Survived,20,2,15.7417,1
+32,Alone,Cherbourg,Stahelin-Maeglin Max,Male,Men,"Stahelin-Maeglin, Dr. Max",First Class,Survived,32,0,30.5,1
+24,Alone,Cherbourg,Sagesser Emma,Female,Women,"Sagesser, Mlle. Emma",First Class,Survived,24,0,69.3,1
+1,Family,Cherbourg,Baclini Eugenie,Female,Children,"Baclini, Miss. Eugenie",Third Class,Survived,1,3,19.2583,1
+48,Family,Cherbourg,Harper Henry Sleeper,Male,Men,"Harper, Mr. Henry Sleeper",First Class,Survived,48,1,76.7292,1
+56,Alone,Cherbourg,Simonius-Blumer Oberst Alfons,Male,Men,"Simonius-Blumer, Col. Oberst Alfons",First Class,Survived,56,0,35.5,1
+58,Family,Cherbourg,Newell Arthur Webster,Male,Men,"Newell, Mr. Arthur Webster",First Class,Died,58,2,113.275,
+40,Alone,Cherbourg,Badt Mohamed,Male,Men,"Badt, Mr. Mohamed",Third Class,Died,40,0,7.225,
+36,Family,Cherbourg,Cardeza Thomas Drake Martinez,Male,Men,"Cardeza, Mr. Thomas Drake Martinez",First Class,Survived,36,1,512.3292,1
+27,Alone,Cherbourg,Hassab Hammad,Male,Men,"Hassab, Mr. Hammad",First Class,Survived,27,0,76.7292,1
+25,Family,Cherbourg,Laroche Joseph Philippe Lemercier,Male,Men,"Laroche, Mr. Joseph Philippe Lemercier",Second Class,Died,25,3,41.5792,
+4,Family,Cherbourg,Karun Manca,Female,Children,"Karun, Miss. Manca",Third Class,Survived,4,1,13.4167,1
+25,Alone,Cherbourg,Saad Khalil,Male,Men,"Saad, Mr. Khalil",Third Class,Died,25,0,7.225,
+49,Family,Cherbourg,Thayer John Borland,Male,Men,"Thayer, Mr. John Borland",First Class,Died,49,2,110.8833,
+18,Family,Cherbourg,Astor John Jacob,Female,Women,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",First Class,Survived,18,1,227.525,1
+18,Family,Cherbourg,Barbara Saiide,Female,Women,"Barbara, Miss. Saiide",Third Class,Died,18,1,14.4542,
+24,Alone,Cherbourg,Mayne Berthe Antonine,Female,Women,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",First Class,Survived,24,0,49.5042,1
+38,Alone,Cherbourg,Endres Caroline Louise,Female,Women,"Endres, Miss. Caroline Louise",First Class,Survived,38,0,227.525,1
+11,Alone,Cherbourg,Hassan Houssein G N,Male,Children,"Hassan, Mr. Houssein G N",Third Class,Died,11,0,18.7875,
+35,Alone,Cherbourg,Lesurer Gustave J,Male,Men,"Lesurer, Mr. Gustave J",First Class,Survived,35,0,512.3292,1
+21,Family,Cherbourg,"Ryerson Susan Parker ""Suzette""",Female,Women,"Ryerson, Miss. Susan Parker ""Suzette""",First Class,Survived,21,4,262.375,1
+20,Alone,Cherbourg,Barah Hanna Assi,Male,Men,"Barah, Mr. Hanna Assi",Third Class,Survived,20,0,7.2292,1
+13,Alone,Cherbourg,Ayoub Banoura,Female,Children,"Ayoub, Miss. Banoura",Third Class,Survived,13,0,7.2292,1
+46,Alone,Cherbourg,Guggenheim Benjamin,Male,Men,"Guggenheim, Mr. Benjamin",First Class,Died,46,0,79.2,
+30,Alone,Cherbourg,Ibrahim Shawah Yousseff,Male,Men,"Ibrahim Shawah, Mr. Yousseff",Third Class,Died,30,0,7.2292,
+0,Family,Cherbourg,Thomas Assad Alexander,Male,Children,"Thomas, Master. Assad Alexander",Third Class,Survived,0,1,8.5167,1
+31,Family,Cherbourg,Mallet Albert,Male,Men,"Mallet, Mr. Albert",Second Class,Died,31,2,37.0042,
+1,Family,Cherbourg,Mallet Andre,Male,Children,"Mallet, Master. Andre",Second Class,Survived,1,2,37.0042,1
+15,Family,Cherbourg,Yasbeck Antoni,Female,Children,"Yasbeck, Mrs. Antoni (Selini Alexander)",Third Class,Survived,15,1,14.4542,1
+39,Family,Cherbourg,Compton Sara Rebecca,Female,Women,"Compton, Miss. Sara Rebecca",First Class,Survived,39,2,83.1583,1
+30,Alone,Cherbourg,Serepeca Augusta,Female,Women,"Serepeca, Miss. Augusta",First Class,Survived,30,0,31,1
+35,Alone,Cherbourg,Lemberopolous Peter L,Male,Men,"Lemberopolous, Mr. Peter L",Third Class,Died,35,0,6.4375,
+35,Alone,Cherbourg,Markoff Marin,Male,Men,"Markoff, Mr. Marin",Third Class,Died,35,0,7.8958,
+9,Family,Cherbourg,Boulos Nourelain,Female,Children,"Boulos, Miss. Nourelain",Third Class,Died,9,2,15.2458,
+24,Family,Cherbourg,Baclini Solomon,Female,Women,"Baclini, Mrs. Solomon (Latifa Qurban)",Third Class,Survived,24,3,19.2583,1
+27,Family,Cherbourg,Duran y More Asuncion,Female,Women,"Duran y More, Miss. Asuncion",Second Class,Survived,27,1,13.8583,1
+28,Family,Cherbourg,Abelson Samuel,Female,Women,"Abelson, Mrs. Samuel (Hannah Wizosky)",Second Class,Survived,28,1,24,1
+15,Alone,Cherbourg,"Najib Adele Kiamie ""Jane""",Female,Children,"Najib, Miss. Adele Kiamie ""Jane""",Third Class,Survived,15,0,7.225,1
+56,Family,Cherbourg,Potter Thomas Jr,Female,Women,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",First Class,Survived,56,1,83.1583,1
+26,Alone,Cherbourg,Behr Karl Howell,Male,Men,"Behr, Mr. Karl Howell",First Class,Survived,26,0,30,1
+2,Family,Queenstown,Rice Eugene,Male,Children,"Rice, Master. Eugene",Third Class,Died,2,5,29.125,
+15,Alone,Queenstown,"McGowan Anna ""Annie""",Female,Children,"McGowan, Miss. Anna ""Annie""",Third Class,Survived,15,0,8.0292,1
+19,Alone,Queenstown,Devaney Margaret Delia,Female,Women,"Devaney, Miss. Margaret Delia",Third Class,Survived,19,0,7.8792,1
+71,Alone,Queenstown,Connors Patrick,Male,Men,"Connors, Mr. Patrick",Third Class,Died,71,0,7.75,
+19,Alone,Queenstown,Burke Jeremiah,Male,Men,"Burke, Mr. Jeremiah",Third Class,Died,19,0,6.75,
+16,Alone,Queenstown,"Gilnagh Katherine ""Katie""",Female,Children,"Gilnagh, Miss. Katherine ""Katie""",Third Class,Survived,16,0,7.7333,1
+4,Family,Queenstown,Rice Arthur,Male,Children,"Rice, Master. Arthur",Third Class,Died,4,5,29.125,
+40,Family,Queenstown,Bourke John,Male,Men,"Bourke, Mr. John",Third Class,Died,40,2,15.5,
+16,Alone,Queenstown,"Carr Helen ""Ellen""",Female,Children,"Carr, Miss. Helen ""Ellen""",Third Class,Survived,16,0,7.75,1
+44,Family,Queenstown,Minahan William Edward,Male,Men,"Minahan, Dr. William Edward",First Class,Died,44,2,90,
+7,Family,Queenstown,Rice Eric,Male,Children,"Rice, Master. Eric",Third Class,Died,7,5,29.125,
+65,Alone,Queenstown,Duane Frank,Male,Men,"Duane, Mr. Frank",Third Class,Died,65,0,7.75,
+22,Alone,Queenstown,Connolly Kate,Female,Women,"Connolly, Miss. Kate",Third Class,Survived,22,0,7.75,1
+30,Alone,Queenstown,Slayter Hilda Mary,Female,Women,"Slayter, Miss. Hilda Mary",Second Class,Survived,30,0,12.35,1
+33,Family,Queenstown,Minahan Daisy E,Female,Women,"Minahan, Miss. Daisy E",First Class,Survived,33,1,90,1
+21,Alone,Queenstown,Charters David,Male,Men,"Charters, Mr. David",Third Class,Died,21,0,7.7333,
+21,Alone,Queenstown,Canavan Mary,Female,Women,"Canavan, Miss. Mary",Third Class,Died,21,0,7.75,
+29,Alone,Queenstown,Daly Eugene Patrick,Male,Men,"Daly, Mr. Eugene Patrick",Third Class,Survived,29,0,7.75,1
+41,Alone,Queenstown,Farrell James,Male,Men,"Farrell, Mr. James",Third Class,Died,41,0,7.75,
+57,Alone,Queenstown,Kirkland Charles Leonard,Male,Men,"Kirkland, Rev. Charles Leonard",Second Class,Died,57,0,12.35,
+18,Alone,Queenstown,"Hegarty Hanora ""Nora""",Female,Women,"Hegarty, Miss. Hanora ""Nora""",Third Class,Died,18,0,6.75,
+32,Family,Queenstown,Bourke John,Female,Women,"Bourke, Mrs. John (Catherine)",Third Class,Died,32,2,15.5,
+25,Alone,Queenstown,Gallagher Martin,Male,Men,"Gallagher, Mr. Martin",Third Class,Died,25,0,7.7417,
+31,Alone,Queenstown,Connaghton Michael,Male,Men,"Connaghton, Mr. Michael",Third Class,Died,31,0,7.75,
+31,Alone,Queenstown,Mangan Mary,Female,Women,"Mangan, Miss. Mary",Third Class,Died,31,0,7.75,
+8,Family,Queenstown,Rice George Hugh,Male,Children,"Rice, Master. George Hugh",Third Class,Died,8,5,29.125,
+39,Family,Queenstown,Rice William,Female,Women,"Rice, Mrs. William (Margaret Norton)",Third Class,Died,39,5,29.125,
+32,Alone,Queenstown,Dooley Patrick,Male,Men,"Dooley, Mr. Patrick",Third Class,Died,32,0,7.75,
+22,Family,Southampton,Braund Owen Harris,Male,Men,"Braund, Mr. Owen Harris",Third Class,Died,22,1,7.25,
+26,Alone,Southampton,Heikkinen Laina,Female,Women,"Heikkinen, Miss. Laina",Third Class,Survived,26,0,7.925,1
+35,Family,Southampton,Futrelle Jacques Heath,Female,Women,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",First Class,Survived,35,1,53.1,1
+35,Alone,Southampton,Allen William Henry,Male,Men,"Allen, Mr. William Henry",Third Class,Died,35,0,8.05,
+54,Alone,Southampton,McCarthy Timothy J,Male,Men,"McCarthy, Mr. Timothy J",First Class,Died,54,0,51.8625,
+2,Family,Southampton,Palsson Gosta Leonard,Male,Children,"Palsson, Master. Gosta Leonard",Third Class,Died,2,4,21.075,
+27,Family,Southampton,Johnson Oscar W,Female,Women,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",Third Class,Survived,27,2,11.1333,1
+4,Family,Southampton,Sandstrom Marguerite Rut,Female,Children,"Sandstrom, Miss. Marguerite Rut",Third Class,Survived,4,2,16.7,1
+58,Alone,Southampton,Bonnell Elizabeth,Female,Women,"Bonnell, Miss. Elizabeth",First Class,Survived,58,0,26.55,1
+20,Alone,Southampton,Saundercock William Henry,Male,Men,"Saundercock, Mr. William Henry",Third Class,Died,20,0,8.05,
+39,Family,Southampton,Andersson Anders Johan,Male,Men,"Andersson, Mr. Anders Johan",Third Class,Died,39,6,31.275,
+14,Alone,Southampton,Vestrom Hulda Amanda Adolfina,Female,Children,"Vestrom, Miss. Hulda Amanda Adolfina",Third Class,Died,14,0,7.8542,
+55,Alone,Southampton,Hewlett ,Female,Women,"Hewlett, Mrs. (Mary D Kingcome)",Second Class,Survived,55,0,16,1
+31,Family,Southampton,Vander Planke Julius,Female,Women,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",Third Class,Died,31,1,18,
+35,Alone,Southampton,Fynney Joseph J,Male,Men,"Fynney, Mr. Joseph J",Second Class,Died,35,0,26,
+34,Alone,Southampton,Beesley Lawrence,Male,Men,"Beesley, Mr. Lawrence",Second Class,Survived,34,0,13,1
+28,Alone,Southampton,Sloper William Thompson,Male,Men,"Sloper, Mr. William Thompson",First Class,Survived,28,0,35.5,1
+8,Family,Southampton,Palsson Torborg Danira,Female,Children,"Palsson, Miss. Torborg Danira",Third Class,Died,8,4,21.075,
+38,Family,Southampton,Asplund Carl Oscar,Female,Women,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",Third Class,Survived,38,6,31.3875,1
+19,Family,Southampton,Fortune Charles Alexander,Male,Men,"Fortune, Mr. Charles Alexander",First Class,Died,19,5,263,
+66,Alone,Southampton,Wheadon Edward H,Male,Men,"Wheadon, Mr. Edward H",Second Class,Died,66,0,10.5,
+42,Family,Southampton,Holverson Alexander Oskar,Male,Men,"Holverson, Mr. Alexander Oskar",First Class,Died,42,1,52,
+21,Alone,Southampton,Cann Ernest Charles,Male,Men,"Cann, Mr. Ernest Charles",Third Class,Died,21,0,8.05,
+18,Family,Southampton,Vander Planke Augusta Maria,Female,Women,"Vander Planke, Miss. Augusta Maria",Third Class,Died,18,2,18,
+40,Family,Southampton,Ahlin Johan,Female,Women,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",Third Class,Died,40,1,9.475,
+27,Family,Southampton,Turpin William John Robert,Female,Women,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",Second Class,Died,27,1,21,
+18,Family,Southampton,Arnold-Franchi Josef,Female,Women,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",Third Class,Died,18,1,17.8,
+7,Family,Southampton,Panula Juha Niilo,Male,Children,"Panula, Master. Juha Niilo",Third Class,Died,7,5,39.6875,
+21,Alone,Southampton,Nosworthy Richard Cater,Male,Men,"Nosworthy, Mr. Richard Cater",Third Class,Died,21,0,7.8,
+29,Family,Southampton,Faunthorpe Lizzie,Female,Women,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",Second Class,Survived,29,1,26,1
+21,Alone,Southampton,Rugg Emily,Female,Women,"Rugg, Miss. Emily",Second Class,Survived,21,0,10.5,1
+5,Family,Southampton,West Constance Mirium,Female,Children,"West, Miss. Constance Mirium",Second Class,Survived,5,3,27.75,1
+11,Family,Southampton,Goodwin William Frederick,Male,Children,"Goodwin, Master. William Frederick",Third Class,Died,11,7,46.9,
+45,Family,Southampton,Harris Henry Birkhardt,Male,Men,"Harris, Mr. Henry Birkhardt",First Class,Died,45,1,83.475,
+4,Family,Southampton,Skoog Harald,Male,Children,"Skoog, Master. Harald",Third Class,Died,4,5,27.9,
+29,Alone,Southampton,Nye ,Female,Women,"Nye, Mrs. (Elizabeth Ramell)",Second Class,Survived,29,0,10.5,1
+19,Alone,Southampton,Crease Ernest James,Male,Men,"Crease, Mr. Ernest James",Third Class,Died,19,0,8.1583,
+17,Family,Southampton,Andersson Erna Alexandra,Female,Children,"Andersson, Miss. Erna Alexandra",Third Class,Survived,17,6,7.925,1
+26,Family,Southampton,Kink Vincenz,Male,Men,"Kink, Mr. Vincenz",Third Class,Died,26,2,8.6625,
+32,Alone,Southampton,Jenkin Stephen Curnow,Male,Men,"Jenkin, Mr. Stephen Curnow",Second Class,Died,32,0,10.5,
+16,Family,Southampton,Goodwin Lillian Amy,Female,Children,"Goodwin, Miss. Lillian Amy",Third Class,Died,16,7,46.9,
+21,Alone,Southampton,Hood Ambrose Jr,Male,Men,"Hood, Mr. Ambrose Jr",Second Class,Died,21,0,73.5,
+32,Alone,Southampton,Bing Lee,Male,Men,"Bing, Mr. Lee",Third Class,Survived,32,0,56.4958,1
+25,Alone,Southampton,Moen Sigurd Hansen,Male,Men,"Moen, Mr. Sigurd Hansen",Third Class,Died,25,0,7.65,
+1,Family,Southampton,Caldwell Alden Gates,Male,Children,"Caldwell, Master. Alden Gates",Second Class,Survived,1,2,29,1
+30,Alone,Southampton,Dowdell Elizabeth,Female,Women,"Dowdell, Miss. Elizabeth",Third Class,Survived,30,0,12.475,1
+22,Alone,Southampton,Waelens Achille,Male,Men,"Waelens, Mr. Achille",Third Class,Died,22,0,9,
+29,Alone,Southampton,Sheerlinck Jan Baptist,Male,Men,"Sheerlinck, Mr. Jan Baptist",Third Class,Survived,29,0,9.5,1
+28,Alone,Southampton,Carrau Francisco M,Male,Men,"Carrau, Mr. Francisco M",First Class,Died,28,0,47.1,
+17,Alone,Southampton,Ilett Bertha,Female,Children,"Ilett, Miss. Bertha",Second Class,Survived,17,0,10.5,1
+33,Family,Southampton,Backstrom Karl Alfred,Female,Women,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",Third Class,Survived,33,3,15.85,1
+16,Family,Southampton,Ford William Neal,Male,Children,"Ford, Mr. William Neal",Third Class,Died,16,4,34.375,
+23,Family,Southampton,Fortune Mabel Helen,Female,Women,"Fortune, Miss. Mabel Helen",First Class,Survived,23,5,263,1
+24,Alone,Southampton,Celotti Francesco,Male,Men,"Celotti, Mr. Francesco",Third Class,Died,24,0,8.05,
+29,Alone,Southampton,Christmann Emil,Male,Men,"Christmann, Mr. Emil",Third Class,Died,29,0,8.05,
+20,Alone,Southampton,Andreasson Paul Edvin,Male,Men,"Andreasson, Mr. Paul Edvin",Third Class,Died,20,0,7.8542,
+46,Family,Southampton,Chaffee Herbert Fuller,Male,Men,"Chaffee, Mr. Herbert Fuller",First Class,Died,46,1,61.175,
+26,Family,Southampton,Dean Bertram Frank,Male,Men,"Dean, Mr. Bertram Frank",Third Class,Died,26,3,20.575,
+59,Alone,Southampton,Coxon Daniel,Male,Men,"Coxon, Mr. Daniel",Third Class,Died,59,0,7.25,
+34,Family,Southampton,Doling John T,Female,Women,"Doling, Mrs. John T (Ada Julia Bone)",Second Class,Survived,34,1,23,1
+34,Family,Southampton,Kantor Sinai,Male,Men,"Kantor, Mr. Sinai",Second Class,Died,34,1,26,
+28,Alone,Southampton,Petranec Matilda,Female,Women,"Petranec, Miss. Matilda",Third Class,Died,28,0,7.8958,
+21,Family,Southampton,White Richard Frasar,Male,Men,"White, Mr. Richard Frasar",First Class,Died,21,1,77.2875,
+33,Alone,Southampton,Johansson Gustaf Joel,Male,Men,"Johansson, Mr. Gustaf Joel",Third Class,Died,33,0,8.6542,
+37,Family,Southampton,Gustafsson Anders Vilhelm,Male,Men,"Gustafsson, Mr. Anders Vilhelm",Third Class,Died,37,2,7.925,
+28,Alone,Southampton,Mionoff Stoytcho,Male,Men,"Mionoff, Mr. Stoytcho",Third Class,Died,28,0,7.8958,
+21,Alone,Southampton,Salkjelsvik Anna Kristine,Female,Women,"Salkjelsvik, Miss. Anna Kristine",Third Class,Survived,21,0,7.65,1
+38,Alone,Southampton,Rekic Tido,Male,Men,"Rekic, Mr. Tido",Third Class,Died,38,0,7.8958,
+47,Alone,Southampton,Porter Walter Chamberlain,Male,Men,"Porter, Mr. Walter Chamberlain",First Class,Died,47,0,52,
+22,Alone,Southampton,Barton David John,Male,Men,"Barton, Mr. David John",Third Class,Died,22,0,8.05,
+20,Family,Southampton,Jussila Katriina,Female,Women,"Jussila, Miss. Katriina",Third Class,Died,20,1,9.825,
+21,Alone,Southampton,Pekoniemi Edvard,Male,Men,"Pekoniemi, Mr. Edvard",Third Class,Died,21,0,7.925,
+29,Family,Southampton,Turpin William John Robert,Male,Men,"Turpin, Mr. William John Robert",Second Class,Died,29,1,21,
+2,Family,Southampton,Andersson Ellis Anna Maria,Female,Children,"Andersson, Miss. Ellis Anna Maria",Third Class,Died,2,6,31.275,
+21,Family,Southampton,Hickman Stanley George,Male,Men,"Hickman, Mr. Stanley George",Second Class,Died,21,2,73.5,
+33,Alone,Southampton,Webber Susan,Female,Women,"Webber, Miss. Susan",Second Class,Survived,33,0,13,1
+54,Family,Southampton,White Percival Wayland,Male,Men,"White, Mr. Percival Wayland",First Class,Died,54,1,77.2875,
+24,Alone,Southampton,Madsen Fridtjof Arne,Male,Men,"Madsen, Mr. Fridtjof Arne",Third Class,Survived,24,0,7.1417,1
+45,Alone,Southampton,Ekstrom Johan,Male,Men,"Ekstrom, Mr. Johan",Third Class,Died,45,0,6.975,
+20,Alone,Southampton,Coelho Domingos Fernandeo,Male,Men,"Coelho, Mr. Domingos Fernandeo",Third Class,Died,20,0,7.05,
+47,Family,Southampton,Robins Alexander A,Female,Women,"Robins, Mrs. Alexander A (Grace Charity Laury)",Third Class,Died,47,1,14.5,
+29,Family,Southampton,Weisz Leopold,Female,Women,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",Second Class,Survived,29,1,26,1
+25,Alone,Southampton,Sobey Samuel James Hayden,Male,Men,"Sobey, Mr. Samuel James Hayden",Second Class,Died,25,0,13,
+19,Family,Southampton,Newsom Helen Monypeny,Female,Women,"Newsom, Miss. Helen Monypeny",First Class,Survived,19,2,26.2833,1
+37,Family,Southampton,Futrelle Jacques Heath,Male,Men,"Futrelle, Mr. Jacques Heath",First Class,Died,37,1,53.1,
+16,Alone,Southampton,Osen Olaf Elon,Male,Children,"Osen, Mr. Olaf Elon",Third Class,Died,16,0,9.2167,
+22,Alone,Southampton,Nysten Anna Sofia,Female,Women,"Nysten, Miss. Anna Sofia",Third Class,Survived,22,0,7.75,1
+24,Family,Southampton,Hakkarainen Pekka Pietari,Female,Women,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",Third Class,Survived,24,1,15.85,1
+18,Alone,Southampton,Andrew Edgardo Samuel,Male,Men,"Andrew, Mr. Edgardo Samuel",Second Class,Died,18,0,11.5,
+19,Family,Southampton,Nicholls Joseph Charles,Male,Men,"Nicholls, Mr. Joseph Charles",Second Class,Died,19,2,36.75,
+27,Alone,Southampton,Andersson August Edvard,Male,Men,"Andersson, Mr. August Edvard (""Wennerstrom"")",Third Class,Survived,27,0,7.7958,1
+9,Family,Southampton,"Ford Robina Maggie ""Ruby""",Female,Children,"Ford, Miss. Robina Maggie ""Ruby""",Third Class,Died,9,4,34.375,
+37,Family,Southampton,Navratil Michel,Male,Men,"Navratil, Mr. Michel (""Louis M Hoffman"")",Second Class,Died,37,2,26,
+42,Alone,Southampton,Byles Thomas Roussel Davids,Male,Men,"Byles, Rev. Thomas Roussel Davids",Second Class,Died,42,0,13,
+51,Alone,Southampton,Bateman Robert James,Male,Men,"Bateman, Rev. Robert James",Second Class,Died,51,0,12.525,
+22,Family,Southampton,Pears Thomas,Female,Women,"Pears, Mrs. Thomas (Edith Wearne)",First Class,Survived,22,1,66.6,1
+56,Alone,Southampton,Meo Alfonzo,Male,Men,"Meo, Mr. Alfonzo",Third Class,Died,56,0,8.05,
+41,Family,Southampton,van Billiard Austin Blyler,Male,Men,"van Billiard, Mr. Austin Blyler",Third Class,Died,41,2,14.5,
+30,Alone,Southampton,Corn Harry,Male,Men,"Corn, Mr. Harry",Third Class,Died,30,0,8.05,
+44,Family,Southampton,Cribb John Hatfield,Male,Men,"Cribb, Mr. John Hatfield",Third Class,Died,44,1,16.1,
+40,Alone,Southampton,Watt James,Female,Women,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",Second Class,Survived,40,0,15.75,1
+26,Alone,Southampton,Bengtsson John Viktor,Male,Men,"Bengtsson, Mr. John Viktor",Third Class,Died,26,0,7.775,
+17,Alone,Southampton,Calic Jovo,Male,Children,"Calic, Mr. Jovo",Third Class,Died,17,0,8.6625,
+1,Family,Southampton,Panula Eino Viljami,Male,Children,"Panula, Master. Eino Viljami",Third Class,Died,1,5,39.6875,
+9,Family,Southampton,"Goldsmith Frank John William ""Frankie""",Male,Children,"Goldsmith, Master. Frank John William ""Frankie""",Third Class,Survived,9,2,20.525,1
+45,Family,Southampton,Skoog William,Female,Women,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",Third Class,Died,45,5,27.9,
+28,Alone,Southampton,Ling Lee,Male,Men,"Ling, Mr. Lee",Third Class,Died,28,0,56.4958,
+61,Alone,Southampton,Van der hoef Wyckoff,Male,Men,"Van der hoef, Mr. Wyckoff",First Class,Died,61,0,33.5,
+1,Family,Southampton,Johnson Eleanor Ileen,Female,Children,"Johnson, Miss. Eleanor Ileen",Third Class,Survived,1,2,11.1333,1
+21,Alone,Southampton,Sivola Antti Wilhelm,Male,Men,"Sivola, Mr. Antti Wilhelm",Third Class,Died,21,0,7.925,
+18,Family,Southampton,Klasen Klas Albin,Male,Men,"Klasen, Mr. Klas Albin",Third Class,Died,18,2,7.8542,
+30,Alone,Southampton,Hale Reginald,Male,Men,"Hale, Mr. Reginald",Second Class,Died,30,0,13,
+36,Alone,Southampton,Leonard Lionel,Male,Men,"Leonard, Mr. Lionel",Third Class,Died,36,0,0,
+9,Family,Southampton,Asplund Clarence Gustaf Hugo,Male,Children,"Asplund, Master. Clarence Gustaf Hugo",Third Class,Died,9,6,31.3875,
+1,Family,Southampton,Becker Richard F,Male,Children,"Becker, Master. Richard F",Second Class,Survived,1,3,39,1
+4,Family,Southampton,Kink-Heilmann Luise Gretchen,Female,Children,"Kink-Heilmann, Miss. Luise Gretchen",Third Class,Survived,4,2,22.025,1
+45,Alone,Southampton,Romaine Charles Hallace,Male,Men,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",First Class,Survived,45,0,26.55,1
+36,Alone,Southampton,Turcin Stjepan,Male,Men,"Turcin, Mr. Stjepan",Third Class,Died,36,0,7.8958,
+32,Alone,Southampton,Pinsky ,Female,Women,"Pinsky, Mrs. (Rosa)",Second Class,Survived,32,0,13,1
+19,Alone,Southampton,Carbines William,Male,Men,"Carbines, Mr. William",Second Class,Died,19,0,13,
+19,Family,Southampton,Andersen-Jensen Carla Christine Nielsine,Female,Women,"Andersen-Jensen, Miss. Carla Christine Nielsine",Third Class,Survived,19,1,7.8542,1
+3,Family,Southampton,Navratil Michel M,Male,Children,"Navratil, Master. Michel M",Second Class,Survived,3,2,26,1
+42,Family,Southampton,Olsen Karl Siegwart Andreas,Male,Men,"Olsen, Mr. Karl Siegwart Andreas",Third Class,Died,42,1,8.4042,
+24,Alone,Southampton,Yrois Henriette,Female,Women,"Yrois, Miss. Henriette (""Mrs Harbeck"")",Second Class,Died,24,0,13,
+28,Alone,Southampton,Vande Walle Nestor Cyriel,Male,Men,"Vande Walle, Mr. Nestor Cyriel",Third Class,Died,28,0,9.5,
+34,Alone,Southampton,Johanson Jakob Alfred,Male,Men,"Johanson, Mr. Jakob Alfred",Third Class,Died,34,0,6.4958,
+18,Alone,Southampton,"Cohen Gurshon ""Gus""",Male,Men,"Cohen, Mr. Gurshon ""Gus""",Third Class,Survived,18,0,8.05,1
+2,Family,Southampton,Strom Telma Matilda,Female,Children,"Strom, Miss. Telma Matilda",Third Class,Died,2,1,10.4625,
+32,Family,Southampton,Backstrom Karl Alfred,Male,Men,"Backstrom, Mr. Karl Alfred",Third Class,Died,32,1,15.85,
+24,Alone,Southampton,Ali Ahmed,Male,Men,"Ali, Mr. Ahmed",Third Class,Died,24,0,7.05,
+35,Alone,Southampton,Cameron Clear Annie,Female,Women,"Cameron, Miss. Clear Annie",Second Class,Survived,35,0,21,1
+22,Alone,Southampton,Perkin John Henry,Male,Men,"Perkin, Mr. John Henry",Third Class,Died,22,0,7.25,
+30,Alone,Southampton,Givard Hans Kristensen,Male,Men,"Givard, Mr. Hans Kristensen",Second Class,Died,30,0,13,
+27,Alone,Southampton,Honkanen Eliina,Female,Women,"Honkanen, Miss. Eliina",Third Class,Survived,27,0,7.925,1
+42,Family,Southampton,Jacobsohn Sidney Samuel,Male,Men,"Jacobsohn, Mr. Sidney Samuel",Second Class,Died,42,1,27,
+30,Alone,Southampton,Harris Walter,Male,Men,"Harris, Mr. Walter",Second Class,Died,30,0,10.5,
+16,Alone,Southampton,Sunderland Victor Francis,Male,Children,"Sunderland, Mr. Victor Francis",Third Class,Survived,16,0,8.05,1
+27,Alone,Southampton,Bracken James H,Male,Men,"Bracken, Mr. James H",Second Class,Died,27,0,13,
+51,Alone,Southampton,Green George Henry,Male,Men,"Green, Mr. George Henry",Third Class,Died,51,0,8.05,
+38,Family,Southampton,Hoyt Frederick Maxfield,Male,Men,"Hoyt, Mr. Frederick Maxfield",First Class,Survived,38,1,90,1
+22,Alone,Southampton,Berglund Karl Ivar Sven,Male,Men,"Berglund, Mr. Karl Ivar Sven",Third Class,Died,22,0,9.35,
+19,Alone,Southampton,Mellors William John,Male,Men,"Mellors, Mr. William John",Second Class,Survived,19,0,10.5,1
+21,Alone,Southampton,Lovell John Hall,Male,Men,"Lovell, Mr. John Hall (""Henry"")",Third Class,Died,21,0,7.25,
+18,Alone,Southampton,Fahlstrom Arne Jonas,Male,Men,"Fahlstrom, Mr. Arne Jonas",Second Class,Died,18,0,13,
+35,Family,Southampton,Harris Henry Birkhardt,Female,Women,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",First Class,Survived,35,1,83.475,1
+29,Alone,Southampton,Larsson Bengt Edvin,Male,Men,"Larsson, Mr. Bengt Edvin",Third Class,Died,29,0,7.775,
+59,Alone,Southampton,Sjostedt Ernst Adolf,Male,Men,"Sjostedt, Mr. Ernst Adolf",Second Class,Died,59,0,13.5,
+5,Family,Southampton,Asplund Lillian Gertrud,Female,Children,"Asplund, Miss. Lillian Gertrud",Third Class,Survived,5,6,31.3875,1
+24,Alone,Southampton,Leyson Robert William Norman,Male,Men,"Leyson, Mr. Robert William Norman",Second Class,Died,24,0,10.5,
+44,Family,Southampton,Hold Stephen,Male,Men,"Hold, Mr. Stephen",Second Class,Died,44,1,26,
+8,Family,Southampton,"Collyer Marjorie ""Lottie""",Female,Children,"Collyer, Miss. Marjorie ""Lottie""",Second Class,Survived,8,2,26.25,1
+19,Alone,Southampton,Pengelly Frederick William,Male,Men,"Pengelly, Mr. Frederick William",Second Class,Died,19,0,10.5,
+33,Alone,Southampton,Hunt George Henry,Male,Men,"Hunt, Mr. George Henry",Second Class,Died,33,0,12.275,
+29,Alone,Southampton,Coleridge Reginald Charles,Male,Men,"Coleridge, Mr. Reginald Charles",Second Class,Died,29,0,10.5,
+22,Alone,Southampton,Maenpaa Matti Alexanteri,Male,Men,"Maenpaa, Mr. Matti Alexanteri",Third Class,Died,22,0,7.125,
+25,Alone,Southampton,Lindahl Agda Thorilda Viktoria,Female,Women,"Lindahl, Miss. Agda Thorilda Viktoria",Third Class,Died,25,0,7.775,
+24,Family,Southampton,Hamalainen William,Female,Women,"Hamalainen, Mrs. William (Anna)",Second Class,Survived,24,2,14.5,1
+37,Family,Southampton,Beckwith Richard Leonard,Male,Men,"Beckwith, Mr. Richard Leonard",First Class,Survived,37,2,52.5542,1
+54,Family,Southampton,Carter Ernest Courtenay,Male,Men,"Carter, Rev. Ernest Courtenay",Second Class,Died,54,1,26,
+29,Family,Southampton,Strom Wilhelm,Female,Women,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",Third Class,Died,29,2,10.4625,
+62,Alone,Southampton,Stead William Thomas,Male,Men,"Stead, Mr. William Thomas",First Class,Died,62,0,26.55,
+30,Family,Southampton,Lobb William Arthur,Male,Men,"Lobb, Mr. William Arthur",Third Class,Died,30,1,16.1,
+41,Family,Southampton,Rosblom Viktor,Female,Women,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",Third Class,Died,41,2,20.2125,
+30,Alone,Southampton,Cherry Gladys,Female,Women,"Cherry, Miss. Gladys",First Class,Survived,30,0,86.5,1
+50,Family,Southampton,Parrish ,Female,Women,"Parrish, Mrs. (Lutie Davis)",Second Class,Survived,50,1,26,1
+3,Family,Southampton,Asplund Edvin Rojj Felix,Male,Children,"Asplund, Master. Edvin Rojj Felix",Third Class,Survived,3,6,31.3875,1
+52,Family,Southampton,Taussig Emil,Male,Men,"Taussig, Mr. Emil",First Class,Died,52,2,79.65,
+40,Alone,Southampton,Harrison William,Male,Men,"Harrison, Mr. William",First Class,Died,40,0,0,
+36,Alone,Southampton,Reeves David,Male,Men,"Reeves, Mr. David",Second Class,Died,36,0,10.5,
+16,Family,Southampton,Panula Ernesti Arvid,Male,Children,"Panula, Mr. Ernesti Arvid",Third Class,Died,16,5,39.6875,
+25,Family,Southampton,Persson Ernst Ulrik,Male,Men,"Persson, Mr. Ernst Ulrik",Third Class,Survived,25,1,7.775,1
+58,Family,Southampton,Graham William Thompson,Female,Women,"Graham, Mrs. William Thompson (Edith Junkins)",First Class,Survived,58,1,153.4625,1
+35,Alone,Southampton,Bissette Amelia,Female,Women,"Bissette, Miss. Amelia",First Class,Survived,35,0,135.6333,1
+25,Alone,Southampton,Tornquist William Henry,Male,Men,"Tornquist, Mr. William Henry",Third Class,Survived,25,0,0,1
+41,Family,Southampton,Mellinger ,Female,Women,"Mellinger, Mrs. (Elizabeth Anne Maidment)",Second Class,Survived,41,1,19.5,1
+63,Family,Southampton,Andrews Kornelia Theodosia,Female,Women,"Andrews, Miss. Kornelia Theodosia",First Class,Survived,63,1,77.9583,1
+45,Alone,Southampton,Lindblom Augusta Charlotta,Female,Women,"Lindblom, Miss. Augusta Charlotta",Third Class,Died,45,0,7.75,
+35,Family,Southampton,Abbott Stanton,Female,Women,"Abbott, Mrs. Stanton (Rosa Hunt)",Third Class,Survived,35,2,20.25,1
+28,Alone,Southampton,Olsson Nils Johan Goransson,Male,Men,"Olsson, Mr. Nils Johan Goransson",Third Class,Died,28,0,7.8542,
+16,Alone,Southampton,de Pelsmaeker Alfons,Male,Children,"de Pelsmaeker, Mr. Alfons",Third Class,Died,16,0,9.5,
+19,Alone,Southampton,Dorking Edward Arthur,Male,Men,"Dorking, Mr. Edward Arthur",Third Class,Survived,19,0,8.05,1
+30,Alone,Southampton,de Mulder Theodore,Male,Men,"de Mulder, Mr. Theodore",Third Class,Survived,30,0,9.5,1
+22,Alone,Southampton,Naidenoff Penko,Male,Men,"Naidenoff, Mr. Penko",Third Class,Died,22,0,7.8958,
+42,Alone,Southampton,Hosono Masabumi,Male,Men,"Hosono, Mr. Masabumi",Second Class,Survived,42,0,13,1
+26,Alone,Southampton,"Barber Ellen ""Nellie""",Female,Women,"Barber, Miss. Ellen ""Nellie""",First Class,Survived,26,0,78.85,1
+24,Alone,Southampton,Haas Aloisia,Female,Women,"Haas, Miss. Aloisia",Third Class,Died,24,0,8.85,
+24,Alone,Southampton,Mineff Ivan,Male,Men,"Mineff, Mr. Ivan",Third Class,Died,24,0,7.8958,
+2,Family,Southampton,Allison Helen Loraine,Female,Children,"Allison, Miss. Helen Loraine",First Class,Died,2,3,151.55,
+19,Alone,Southampton,Johnson William Cahoone Jr,Male,Men,"Johnson, Mr. William Cahoone Jr",Third Class,Died,19,0,0,
+1,Family,Southampton,Allison Hudson Trevor,Male,Children,"Allison, Master. Hudson Trevor",First Class,Survived,1,3,151.55,1
+26,Family,Southampton,Lahtinen William,Female,Women,"Lahtinen, Mrs. William (Anna Sylfven)",Second Class,Died,26,2,26,
+28,Alone,Southampton,Hendekovic Ignjac,Male,Men,"Hendekovic, Mr. Ignjac",Third Class,Died,28,0,7.8958,
+43,Family,Southampton,Hart Benjamin,Male,Men,"Hart, Mr. Benjamin",Second Class,Died,43,2,26.25,
+26,Alone,Southampton,Nilsson Helmina Josefina,Female,Women,"Nilsson, Miss. Helmina Josefina",Third Class,Survived,26,0,7.8542,1
+24,Family,Southampton,Kantor Sinai,Female,Women,"Kantor, Mrs. Sinai (Miriam Sternin)",Second Class,Survived,24,1,26,1
+54,Alone,Southampton,Moraweck Ernest,Male,Men,"Moraweck, Dr. Ernest",Second Class,Died,54,0,14,
+31,Family,Southampton,Wick Mary Natalie,Female,Women,"Wick, Miss. Mary Natalie",First Class,Survived,31,2,164.8667,1
+22,Alone,Southampton,Dennis Samuel,Male,Men,"Dennis, Mr. Samuel",Third Class,Died,22,0,7.25,
+27,Alone,Southampton,Danoff Yoto,Male,Men,"Danoff, Mr. Yoto",Third Class,Died,27,0,7.8958,
+22,Family,Southampton,Caldwell Albert Francis,Female,Women,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",Second Class,Survived,22,2,29,1
+61,Alone,Southampton,Nysveen Johan Hansen,Male,Men,"Nysveen, Mr. Johan Hansen",Third Class,Died,61,0,6.2375,
+36,Alone,Southampton,Ball ,Female,Women,"Ball, Mrs. (Ada E Hall)",Second Class,Survived,36,0,13,1
+31,Family,Southampton,Goldsmith Frank John,Female,Women,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",Third Class,Survived,31,2,20.525,1
+46,Alone,Southampton,Partner Austen,Male,Men,"Partner, Mr. Austen",First Class,Died,46,0,28.5,
+38,Family,Southampton,Graham George Edward,Male,Men,"Graham, Mr. George Edward",First Class,Died,38,1,153.4625,
+16,Family,Southampton,Vander Planke Leo Edmondus,Male,Children,"Vander Planke, Mr. Leo Edmondus",Third Class,Died,16,2,18,
+29,Family,Southampton,Pears Thomas Clinton,Male,Men,"Pears, Mr. Thomas Clinton",First Class,Died,29,1,66.6,
+45,Alone,Southampton,Dahl Karl Edwart,Male,Men,"Dahl, Mr. Karl Edwart",Third Class,Survived,45,0,8.05,1
+45,Alone,Southampton,Blackwell Stephen Weart,Male,Men,"Blackwell, Mr. Stephen Weart",First Class,Died,45,0,35.5,
+2,Family,Southampton,Navratil Edmond Roger,Male,Children,"Navratil, Master. Edmond Roger",Second Class,Survived,2,2,26,1
+24,Family,Southampton,Fortune Alice Elizabeth,Female,Women,"Fortune, Miss. Alice Elizabeth",First Class,Survived,24,5,263,1
+28,Alone,Southampton,Collander Erik Gustaf,Male,Men,"Collander, Mr. Erik Gustaf",Second Class,Died,28,0,13,
+25,Alone,Southampton,Sedgwick Charles Frederick Waddington,Male,Men,"Sedgwick, Mr. Charles Frederick Waddington",Second Class,Died,25,0,13,
+36,Alone,Southampton,Fox Stanley Hubert,Male,Men,"Fox, Mr. Stanley Hubert",Second Class,Died,36,0,13,
+24,Alone,Southampton,"Brown Amelia ""Mildred""",Female,Women,"Brown, Miss. Amelia ""Mildred""",Second Class,Survived,24,0,13,1
+40,Alone,Southampton,Smith Marion Elsie,Female,Women,"Smith, Miss. Marion Elsie",Second Class,Survived,40,0,13,1
+3,Family,Southampton,"Coutts William Loch ""William""",Male,Children,"Coutts, Master. William Loch ""William""",Third Class,Survived,3,2,15.9,1
+42,Alone,Southampton,Dimic Jovan,Male,Men,"Dimic, Mr. Jovan",Third Class,Died,42,0,8.6625,
+23,Alone,Southampton,Odahl Nils Martin,Male,Men,"Odahl, Mr. Nils Martin",Third Class,Died,23,0,9.225,
+25,Family,Southampton,Arnold-Franchi Josef,Male,Men,"Arnold-Franchi, Mr. Josef",Third Class,Died,25,1,17.8,
+28,Alone,Southampton,Vanden Steen Leo Peter,Male,Men,"Vanden Steen, Mr. Leo Peter",Third Class,Died,28,0,9.5,
+22,Family,Southampton,Bowerman Elsie Edith,Female,Women,"Bowerman, Miss. Elsie Edith",First Class,Survived,22,1,55,1
+38,Alone,Southampton,Funk Annie Clemmer,Female,Women,"Funk, Miss. Annie Clemmer",Second Class,Died,38,0,13,
+40,Family,Southampton,Skoog Wilhelm,Male,Men,"Skoog, Mr. Wilhelm",Third Class,Died,40,5,27.9,
+35,Alone,Southampton,Asim Adola,Male,Men,"Asim, Mr. Adola",Third Class,Died,35,0,7.05,
+30,Alone,Southampton,Adahl Mauritz Nils Martin,Male,Men,"Adahl, Mr. Mauritz Nils Martin",Third Class,Died,30,0,7.25,
+18,Family,Southampton,Wiklund Jakob Alfred,Male,Men,"Wiklund, Mr. Jakob Alfred",Third Class,Died,18,1,6.4958,
+19,Alone,Southampton,Beavan William Thomas,Male,Men,"Beavan, Mr. William Thomas",Third Class,Died,19,0,8.05,
+3,Family,Southampton,Palsson Stina Viola,Female,Children,"Palsson, Miss. Stina Viola",Third Class,Died,3,4,21.075,
+22,Alone,Southampton,Landergren Aurora Adelia,Female,Women,"Landergren, Miss. Aurora Adelia",Third Class,Survived,22,0,7.25,1
+19,Alone,Southampton,Gustafsson Karl Gideon,Male,Men,"Gustafsson, Mr. Karl Gideon",Third Class,Died,19,0,7.775,
+32,Alone,Southampton,Tikkanen Juho,Male,Men,"Tikkanen, Mr. Juho",Third Class,Died,32,0,7.925,
+35,Family,Southampton,Holverson Alexander Oskar,Female,Women,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",First Class,Survived,35,1,52,1
+18,Alone,Southampton,Davies Charles Henry,Male,Men,"Davies, Mr. Charles Henry",Second Class,Died,18,0,73.5,
+1,Family,Southampton,Goodwin Sidney Leonard,Male,Children,"Goodwin, Master. Sidney Leonard",Third Class,Died,1,7,46.9,
+36,Alone,Southampton,Buss Kate,Female,Women,"Buss, Miss. Kate",Second Class,Survived,36,0,13,1
+36,Family,Southampton,Carter William Ernest,Male,Men,"Carter, Mr. William Ernest",First Class,Survived,36,3,120,1
+21,Alone,Southampton,Jansson Carl Olof,Male,Men,"Jansson, Mr. Carl Olof",Third Class,Survived,21,0,7.7958,1
+28,Family,Southampton,Gustafsson Johan Birger,Male,Men,"Gustafsson, Mr. Johan Birger",Third Class,Died,28,2,7.925,
+24,Family,Southampton,Sandstrom Hjalmar,Female,Women,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",Third Class,Survived,24,2,16.7,1
+22,Alone,Southampton,Johansson Erik,Male,Men,"Johansson, Mr. Erik",Third Class,Died,22,0,7.7958,
+31,Alone,Southampton,Olsson Elina,Female,Women,"Olsson, Miss. Elina",Third Class,Died,31,0,7.8542,
+46,Alone,Southampton,McKane Peter David,Male,Men,"McKane, Mr. Peter David",Second Class,Died,46,0,26,
+23,Alone,Southampton,Pain Alfred,Male,Men,"Pain, Dr. Alfred",Second Class,Died,23,0,10.5,
+28,Alone,Southampton,Trout William H,Female,Women,"Trout, Mrs. William H (Jessie L)",Second Class,Survived,28,0,12.65,1
+39,Alone,Southampton,Niskanen Juha,Male,Men,"Niskanen, Mr. Juha",Third Class,Survived,39,0,7.925,1
+26,Alone,Southampton,Adams John,Male,Men,"Adams, Mr. John",Third Class,Died,26,0,8.05,
+21,Family,Southampton,Jussila Mari Aina,Female,Women,"Jussila, Miss. Mari Aina",Third Class,Died,21,1,9.825,
+28,Family,Southampton,Hakkarainen Pekka Pietari,Male,Men,"Hakkarainen, Mr. Pekka Pietari",Third Class,Died,28,1,15.85,
+20,Alone,Southampton,Oreskovic Marija,Female,Women,"Oreskovic, Miss. Marija",Third Class,Died,20,0,8.6625,
+34,Family,Southampton,Gale Shadrach,Male,Men,"Gale, Mr. Shadrach",Second Class,Died,34,1,21,
+51,Alone,Southampton,Widegren Carl/Charles Peter,Male,Men,"Widegren, Mr. Carl/Charles Peter",Third Class,Died,51,0,7.75,
+3,Family,Southampton,Richards William Rowe,Male,Children,"Richards, Master. William Rowe",Second Class,Survived,3,2,18.75,1
+21,Alone,Southampton,Birkeland Hans Martin Monsen,Male,Men,"Birkeland, Mr. Hans Martin Monsen",Third Class,Died,21,0,7.775,
+44,Alone,Southampton,Sundman Johan Julian,Male,Men,"Sundman, Mr. Johan Julian",Third Class,Survived,44,0,7.925,1
+34,Family,Southampton,Drew James Vivian,Female,Women,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",Second Class,Survived,34,2,32.5,1
+18,Family,Southampton,Silven Lyyli Karoliina,Female,Women,"Silven, Miss. Lyyli Karoliina",Second Class,Survived,18,2,13,1
+30,Alone,Southampton,Matthews William John,Male,Men,"Matthews, Mr. William John",Second Class,Died,30,0,13,
+10,Family,Southampton,Van Impe Catharina,Female,Children,"Van Impe, Miss. Catharina",Third Class,Died,10,2,24.15,
+29,Alone,Southampton,Zimmerman Leo,Male,Men,"Zimmerman, Mr. Leo",Third Class,Died,29,0,7.875,
+28,Family,Southampton,Danbom Ernst Gilbert,Female,Women,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",Third Class,Died,28,2,14.4,
+18,Family,Southampton,Rosblom Viktor Richard,Male,Men,"Rosblom, Mr. Viktor Richard",Third Class,Died,18,2,20.2125,
+28,Family,Southampton,Clarke Charles V,Female,Women,"Clarke, Mrs. Charles V (Ada Maria Winfield)",Second Class,Survived,28,1,26,1
+19,Alone,Southampton,Phillips Kate Florence,Female,Women,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",Second Class,Survived,19,0,26,1
+32,Alone,Southampton,Pickard Berk,Male,Men,"Pickard, Mr. Berk (Berk Trembisky)",Third Class,Survived,32,0,8.05,1
+28,Alone,Southampton,Bjornstrom-Steffansson Mauritz Hakan,Male,Men,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",First Class,Survived,28,0,26.55,1
+42,Family,Southampton,Louch Charles Alexander,Female,Women,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",Second Class,Survived,42,1,26,1
+17,Alone,Southampton,Kallio Nikolai Erland,Male,Children,"Kallio, Mr. Nikolai Erland",Third Class,Died,17,0,7.125,
+50,Family,Southampton,Silvey William Baird,Male,Men,"Silvey, Mr. William Baird",First Class,Died,50,1,55.9,
+14,Family,Southampton,Carter Lucile Polk,Female,Children,"Carter, Miss. Lucile Polk",First Class,Survived,14,3,120,1
+21,Family,Southampton,"Ford Doolina Margaret ""Daisy""",Female,Women,"Ford, Miss. Doolina Margaret ""Daisy""",Third Class,Died,21,4,34.375,
+24,Family,Southampton,Richards Sidney,Female,Women,"Richards, Mrs. Sidney (Emily Hocking)",Second Class,Survived,24,5,18.75,1
+64,Family,Southampton,Fortune Mark,Male,Men,"Fortune, Mr. Mark",First Class,Died,64,5,263,
+31,Alone,Southampton,Kvillner Johan Henrik Johannesson,Male,Men,"Kvillner, Mr. Johan Henrik Johannesson",Second Class,Died,31,0,10.5,
+45,Family,Southampton,Hart Benjamin,Female,Women,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",Second Class,Survived,45,2,26.25,1
+20,Alone,Southampton,Hampe Leon,Male,Men,"Hampe, Mr. Leon",Third Class,Died,20,0,9.5,
+25,Family,Southampton,Petterson Johan Emil,Male,Men,"Petterson, Mr. Johan Emil",Third Class,Died,25,1,7.775,
+28,Alone,Southampton,Reynaldo Encarnacion,Female,Women,"Reynaldo, Ms. Encarnacion",Second Class,Survived,28,0,13,1
+4,Family,Southampton,Dodge Washington,Male,Children,"Dodge, Master. Washington",First Class,Survived,4,2,81.8583,1
+13,Family,Southampton,Mellinger Madeleine Violet,Female,Children,"Mellinger, Miss. Madeleine Violet",Second Class,Survived,13,1,19.5,1
+34,Alone,Southampton,Seward Frederic Kimber,Male,Men,"Seward, Mr. Frederic Kimber",First Class,Survived,34,0,26.55,1
+52,Alone,Southampton,Peuchen Arthur Godfrey,Male,Men,"Peuchen, Major. Arthur Godfrey",First Class,Survived,52,0,30.5,1
+36,Family,Southampton,West Edwy Arthur,Male,Men,"West, Mr. Edwy Arthur",Second Class,Died,36,3,27.75,
+65,Alone,Southampton,Millet Francis Davis,Male,Men,"Millet, Mr. Francis Davis",First Class,Died,65,0,26.55,
+50,Alone,Southampton,Toomey Ellen,Female,Women,"Toomey, Miss. Ellen",Second Class,Survived,50,0,10.5,1
+48,Alone,Southampton,Anderson Harry,Male,Men,"Anderson, Mr. Harry",First Class,Survived,48,0,26.55,1
+34,Alone,Southampton,Morley William,Male,Men,"Morley, Mr. William",Third Class,Died,34,0,8.05,
+47,Alone,Southampton,Gee Arthur H,Male,Men,"Gee, Mr. Arthur H",First Class,Died,47,0,38.5,
+48,Alone,Southampton,Milling Jacob Christian,Male,Men,"Milling, Mr. Jacob Christian",Second Class,Died,48,0,13,
+38,Alone,Southampton,Goncalves Manuel Estanslas,Male,Men,"Goncalves, Mr. Manuel Estanslas",Third Class,Died,38,0,7.05,
+56,Alone,Southampton,Smart John Montgomery,Male,Men,"Smart, Mr. John Montgomery",First Class,Died,56,0,26.55,
+38,Alone,Southampton,Cacic Luka,Male,Men,"Cacic, Mr. Luka",Third Class,Died,38,0,8.6625,
+33,Family,Southampton,West Edwy Arthur,Female,Women,"West, Mrs. Edwy Arthur (Ada Mary Worth)",Second Class,Survived,33,3,27.75,1
+22,Alone,Southampton,Strandberg Ida Sofia,Female,Women,"Strandberg, Miss. Ida Sofia",Third Class,Died,22,0,9.8375,
+34,Family,Southampton,Renouf Peter Henry,Male,Men,"Renouf, Mr. Peter Henry",Second Class,Died,34,1,21,
+29,Family,Southampton,Braund Lewis Richard,Male,Men,"Braund, Mr. Lewis Richard",Third Class,Died,29,1,7.0458,
+22,Alone,Southampton,Karlsson Nils August,Male,Men,"Karlsson, Mr. Nils August",Third Class,Died,22,0,7.5208,
+2,Family,Southampton,Hirvonen Hildur E,Female,Children,"Hirvonen, Miss. Hildur E",Third Class,Survived,2,1,12.2875,1
+9,Family,Southampton,Goodwin Harold Victor,Male,Children,"Goodwin, Master. Harold Victor",Third Class,Died,9,7,46.9,
+50,Alone,Southampton,Rouse Richard Henry,Male,Men,"Rouse, Mr. Richard Henry",Third Class,Died,50,0,8.05,
+63,Alone,Southampton,Turkula ,Female,Women,"Turkula, Mrs. (Hedwig)",Third Class,Survived,63,0,9.5875,1
+35,Family,Southampton,Hoyt Frederick Maxfield,Female,Women,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",First Class,Survived,35,1,90,1
+30,Alone,Southampton,Somerton Francis William,Male,Men,"Somerton, Mr. Francis William",Third Class,Died,30,0,8.05,
+9,Family,Southampton,"Coutts Eden Leslie ""Neville""",Male,Children,"Coutts, Master. Eden Leslie ""Neville""",Third Class,Survived,9,2,15.9,1
+21,Alone,Southampton,Windelov Einar,Male,Men,"Windelov, Mr. Einar",Third Class,Died,21,0,7.25,
+55,Alone,Southampton,Molson Harry Markland,Male,Men,"Molson, Mr. Harry Markland",First Class,Died,55,0,30.5,
+21,Alone,Southampton,Stanley Edward Roland,Male,Men,"Stanley, Mr. Edward Roland",Third Class,Died,21,0,8.05,
+25,Family,Southampton,Allison Hudson J C,Female,Women,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",First Class,Died,25,3,151.55,
+24,Alone,Southampton,Svensson Olof,Male,Men,"Svensson, Mr. Olof",Third Class,Died,24,0,7.7958,
+17,Alone,Southampton,Calic Petar,Male,Children,"Calic, Mr. Petar",Third Class,Died,17,0,8.6625,
+37,Alone,Southampton,Laitinen Kristina Sofia,Female,Women,"Laitinen, Miss. Kristina Sofia",Third Class,Died,37,0,9.5875,
+16,Alone,Southampton,Maioni Roberta,Female,Children,"Maioni, Miss. Roberta",First Class,Survived,16,0,86.5,1
+33,Family,Southampton,Quick Frederick Charles,Female,Women,"Quick, Mrs. Frederick Charles (Jane Richards)",Second Class,Survived,33,2,26,1
+28,Alone,Southampton,Olsen Henry Margido,Male,Men,"Olsen, Mr. Henry Margido",Third Class,Died,28,0,22.525,
+26,Alone,Southampton,Lang Fang,Male,Men,"Lang, Mr. Fang",Third Class,Survived,26,0,56.4958,1
+36,Alone,Southampton,McGough James Robert,Male,Men,"McGough, Mr. James Robert",First Class,Survived,36,0,26.2875,1
+24,Alone,Southampton,Coleff Satio,Male,Men,"Coleff, Mr. Satio",Third Class,Died,24,0,7.4958,
+47,Alone,Southampton,Walker William Anderson,Male,Men,"Walker, Mr. William Anderson",First Class,Died,47,0,34.0208,
+34,Alone,Southampton,Lemore ,Female,Women,"Lemore, Mrs. (Amelia Milley)",Second Class,Survived,34,0,10.5,1
+36,Family,Southampton,Angle William A,Female,Women,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",Second Class,Survived,36,1,26,1
+32,Alone,Southampton,Pavlovic Stefo,Male,Men,"Pavlovic, Mr. Stefo",Third Class,Died,32,0,7.8958,
+30,Alone,Southampton,Perreault Anne,Female,Women,"Perreault, Miss. Anne",First Class,Survived,30,0,93.5,1
+22,Alone,Southampton,Vovk Janko,Male,Men,"Vovk, Mr. Janko",Third Class,Died,22,0,7.8958,
+50,Alone,Southampton,Ridsdale Lucy,Female,Women,"Ridsdale, Miss. Lucy",Second Class,Survived,50,0,10.5,1
+39,Alone,Southampton,Salonen Johan Werner,Male,Men,"Salonen, Mr. Johan Werner",Third Class,Died,39,0,7.925,
+23,Family,Southampton,Hocking Richard George,Male,Men,"Hocking, Mr. Richard George",Second Class,Died,23,3,11.5,
+2,Family,Southampton,Quick Phyllis May,Female,Children,"Quick, Miss. Phyllis May",Second Class,Survived,2,2,26,1
+30,Alone,Southampton,Cacic Marija,Female,Women,"Cacic, Miss. Marija",Third Class,Died,30,0,8.6625,
+7,Family,Southampton,Hart Eva Miriam,Female,Children,"Hart, Miss. Eva Miriam",Second Class,Survived,7,2,26.25,1
+45,Alone,Southampton,Butt Archibald Willingham,Male,Men,"Butt, Major. Archibald Willingham",First Class,Died,45,0,26.55,
+36,Family,Southampton,Crosby Harriet R,Female,Women,"Crosby, Miss. Harriet R",First Class,Survived,36,2,71,1
+9,Family,Southampton,Andersson Ingeborg Constanzia,Female,Children,"Andersson, Miss. Ingeborg Constanzia",Third Class,Died,9,6,31.275,
+11,Family,Southampton,Andersson Sigrid Elisabeth,Female,Children,"Andersson, Miss. Sigrid Elisabeth",Third Class,Died,11,6,31.275,
+32,Family,Southampton,Beane Edward,Male,Men,"Beane, Mr. Edward",Second Class,Survived,32,1,26,1
+64,Alone,Southampton,Nicholson Arthur Ernest,Male,Men,"Nicholson, Mr. Arthur Ernest",First Class,Died,64,0,26,
+19,Family,Southampton,Beane Edward,Female,Women,"Beane, Mrs. Edward (Ethel Clarke)",Second Class,Survived,19,1,26,1
+33,Family,Southampton,Goldsmith Frank John,Male,Men,"Goldsmith, Mr. Frank John",Third Class,Died,33,2,20.525,
+8,Family,Southampton,Davies John Morgan Jr,Male,Children,"Davies, Master. John Morgan Jr",Second Class,Survived,8,2,36.75,1
+27,Alone,Southampton,Sharp Percival James R,Male,Men,"Sharp, Mr. Percival James R",Second Class,Died,27,0,26,
+22,Alone,Southampton,Ohman Velin,Female,Women,"Ohman, Miss. Velin",Third Class,Survived,22,0,7.775,1
+62,Alone,Southampton,Wright George,Male,Men,"Wright, Mr. George",First Class,Died,62,0,26.55,
+39,Family,Southampton,Taussig Emil,Female,Women,"Taussig, Mrs. Emil (Tillie Mandelbaum)",First Class,Survived,39,2,79.65,1
+36,Family,Southampton,de Messemaeker Guillaume Joseph,Female,Women,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",Third Class,Survived,36,1,17.4,1
+40,Alone,Southampton,Sivic Husein,Male,Men,"Sivic, Mr. Husein",Third Class,Died,40,0,7.8958,
+28,Alone,Southampton,Norman Robert Douglas,Male,Men,"Norman, Mr. Robert Douglas",Second Class,Died,28,0,13.5,
+24,Family,Southampton,Davies Alfred J,Male,Men,"Davies, Mr. Alfred J",Third Class,Died,24,2,24.15,
+19,Alone,Southampton,Stoytcheff Ilia,Male,Men,"Stoytcheff, Mr. Ilia",Third Class,Died,19,0,7.8958,
+29,Family,Southampton,Palsson Nils,Female,Women,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",Third Class,Died,29,4,21.075,
+32,Alone,Southampton,Jonsson Carl,Male,Men,"Jonsson, Mr. Carl",Third Class,Survived,32,0,7.8542,1
+62,Alone,Southampton,Harris George,Male,Men,"Harris, Mr. George",Second Class,Survived,62,0,10.5,1
+53,Family,Southampton,Appleton Edward Dale,Female,Women,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",First Class,Survived,53,2,51.4792,1
+36,Alone,Southampton,Flynn John Irwin,Male,Men,"Flynn, Mr. John Irwin (""Irving"")",First Class,Survived,36,0,26.3875,1
+16,Alone,Southampton,Rush Alfred George John,Male,Children,"Rush, Mr. Alfred George John",Third Class,Died,16,0,8.05,
+19,Alone,Southampton,Patchett George,Male,Men,"Patchett, Mr. George",Third Class,Died,19,0,14.5,
+34,Alone,Southampton,Garside Ethel,Female,Women,"Garside, Miss. Ethel",Second Class,Survived,34,0,13,1
+39,Family,Southampton,Silvey William Baird,Female,Women,"Silvey, Mrs. William Baird (Alice Munger)",First Class,Survived,39,1,55.9,1
+32,Alone,Southampton,Jussila Eiriik,Male,Men,"Jussila, Mr. Eiriik",Third Class,Survived,32,0,7.925,1
+25,Family,Southampton,Christy Julie Rachel,Female,Women,"Christy, Miss. Julie Rachel",Second Class,Survived,25,2,30,1
+54,Alone,Southampton,Downton William James,Male,Men,"Downton, Mr. William James",Second Class,Died,54,0,26,
+18,Family,Southampton,Taussig Ruth,Female,Women,"Taussig, Miss. Ruth",First Class,Survived,18,2,79.65,1
+47,Alone,Southampton,Jarvis John Denzil,Male,Men,"Jarvis, Mr. John Denzil",Second Class,Died,47,0,15,
+22,Alone,Southampton,Gilinski Eliezer,Male,Men,"Gilinski, Mr. Eliezer",Third Class,Died,22,0,8.05,
+35,Alone,Southampton,Rintamaki Matti,Male,Men,"Rintamaki, Mr. Matti",Third Class,Died,35,0,7.125,
+47,Alone,Southampton,Elsbury William James,Male,Men,"Elsbury, Mr. William James",Third Class,Died,47,0,7.25,
+37,Family,Southampton,Chapman John Henry,Male,Men,"Chapman, Mr. John Henry",Second Class,Died,37,1,26,
+36,Family,Southampton,Van Impe Jean Baptiste,Male,Men,"Van Impe, Mr. Jean Baptiste",Third Class,Died,36,2,24.15,
+49,Alone,Southampton,Johnson Alfred,Male,Men,"Johnson, Mr. Alfred",Third Class,Died,49,0,0,
+24,Family,Southampton,Jacobsohn Sidney Samuel,Female,Women,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",Second Class,Survived,24,3,27,1
+44,Alone,Southampton,Torber Ernst William,Male,Men,"Torber, Mr. Ernst William",Third Class,Died,44,0,8.05,
+36,Family,Southampton,Lindell Edvard Bengtsson,Male,Men,"Lindell, Mr. Edvard Bengtsson",Third Class,Died,36,1,15.55,
+30,Alone,Southampton,Karaic Milan,Male,Men,"Karaic, Mr. Milan",Third Class,Died,30,0,7.8958,
+27,Alone,Southampton,Daniel Robert Williams,Male,Men,"Daniel, Mr. Robert Williams",First Class,Survived,27,0,30.5,1
+40,Alone,Southampton,Shutes Elizabeth W,Female,Women,"Shutes, Miss. Elizabeth W",First Class,Survived,40,0,153.4625,1
+39,Family,Southampton,Andersson Anders Johan,Female,Women,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",Third Class,Died,39,6,31.275,
+35,Alone,Southampton,Brocklebank William Alfred,Male,Men,"Brocklebank, Mr. William Alfred",Third Class,Died,35,0,8.05,
+24,Family,Southampton,Herman Alice,Female,Women,"Herman, Miss. Alice",Second Class,Survived,24,3,65,1
+34,Family,Southampton,Danbom Ernst Gilbert,Male,Men,"Danbom, Mr. Ernst Gilbert",Third Class,Died,34,2,14.4,
+26,Family,Southampton,Lobb William Arthur,Female,Women,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",Third Class,Died,26,1,16.1,
+4,Family,Southampton,Becker Marion Louise,Female,Children,"Becker, Miss. Marion Louise",Second Class,Survived,4,3,39,1
+26,Alone,Southampton,Gavey Lawrence,Male,Men,"Gavey, Mr. Lawrence",Second Class,Died,26,0,10.5,
+42,Family,Southampton,Kimball Edwin Nelson Jr,Male,Men,"Kimball, Mr. Edwin Nelson Jr",First Class,Survived,42,1,52.5542,1
+21,Alone,Southampton,Hansen Henry Damsgaard,Male,Men,"Hansen, Mr. Henry Damsgaard",Third Class,Died,21,0,7.8542,
+21,Alone,Southampton,"Bowen David John ""Dai""",Male,Men,"Bowen, Mr. David John ""Dai""",Third Class,Died,21,0,16.1,
+61,Alone,Southampton,Sutton Frederick,Male,Men,"Sutton, Mr. Frederick",First Class,Died,61,0,32.3208,
+21,Alone,Southampton,Longley Gretchen Fiske,Female,Women,"Longley, Miss. Gretchen Fiske",First Class,Survived,21,0,77.9583,1
+26,Alone,Southampton,Bostandyeff Guentcho,Male,Men,"Bostandyeff, Mr. Guentcho",Third Class,Died,26,0,7.8958,
+80,Alone,Southampton,Barkworth Algernon Henry Wilson,Male,Men,"Barkworth, Mr. Algernon Henry Wilson",First Class,Survived,80,0,30,1
+51,Alone,Southampton,Lundahl Johan Svensson,Male,Men,"Lundahl, Mr. Johan Svensson",Third Class,Died,51,0,7.0542,
+9,Family,Southampton,Skoog Mabel,Female,Children,"Skoog, Miss. Mabel",Third Class,Died,9,5,27.9,
+28,Alone,Southampton,Davis Mary,Female,Women,"Davis, Miss. Mary",Second Class,Survived,28,0,13,1
+32,Alone,Southampton,Leinonen Antti Gustaf,Male,Men,"Leinonen, Mr. Antti Gustaf",Third Class,Died,32,0,7.925,
+31,Family,Southampton,Collyer Harvey,Male,Men,"Collyer, Mr. Harvey",Second Class,Died,31,2,26.25,
+41,Family,Southampton,Panula Juha,Female,Women,"Panula, Mrs. Juha (Maria Emilia Ojala)",Third Class,Died,41,5,39.6875,
+20,Alone,Southampton,Jensen Hans Peder,Male,Men,"Jensen, Mr. Hans Peder",Third Class,Died,20,0,7.8542,
+2,Family,Southampton,Skoog Margit Elizabeth,Female,Children,"Skoog, Miss. Margit Elizabeth",Third Class,Died,2,5,27.9,
+19,Alone,Southampton,Cor Liudevit,Male,Men,"Cor, Mr. Liudevit",Third Class,Died,19,0,7.8958,
+23,Alone,Southampton,Stanley Amy Zillah Elsie,Female,Women,"Stanley, Miss. Amy Zillah Elsie",Third Class,Survived,23,0,7.55,1
+18,Family,Southampton,Doling Elsie,Female,Women,"Doling, Miss. Elsie",Second Class,Survived,18,1,23,1
+21,Alone,Southampton,Kalvik Johannes Halvorsen,Male,Men,"Kalvik, Mr. Johannes Halvorsen",Third Class,Died,21,0,8.4333,
+24,Family,Southampton,Hickman Leonard Mark,Male,Men,"Hickman, Mr. Leonard Mark",Second Class,Died,24,2,73.5,
+23,Alone,Southampton,Eitemiller George Floyd,Male,Men,"Eitemiller, Mr. George Floyd",Second Class,Died,23,0,13,
+50,Family,Southampton,Frauenthal Henry William,Male,Men,"Frauenthal, Dr. Henry William",First Class,Survived,50,2,133.65,1
+47,Alone,Southampton,Colley Edward Pomeroy,Male,Men,"Colley, Mr. Edward Pomeroy",First Class,Died,47,0,25.5875,
+36,Alone,Southampton,Coleff Peju,Male,Men,"Coleff, Mr. Peju",Third Class,Died,36,0,7.4958,
+20,Family,Southampton,Lindqvist Eino William,Male,Men,"Lindqvist, Mr. Eino William",Third Class,Survived,20,1,7.925,1
+32,Family,Southampton,Hickman Lewis,Male,Men,"Hickman, Mr. Lewis",Second Class,Died,32,2,73.5,
+25,Alone,Southampton,Butler Reginald Fenton,Male,Men,"Butler, Mr. Reginald Fenton",Second Class,Died,25,0,13,
+43,Alone,Southampton,Cook Jacob,Male,Men,"Cook, Mr. Jacob",Third Class,Died,43,0,8.05,
+40,Family,Southampton,Brown Thomas William Solomon,Female,Women,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",Second Class,Survived,40,2,39,1
+31,Family,Southampton,Davidson Thornton,Male,Men,"Davidson, Mr. Thornton",First Class,Died,31,1,52,
+70,Alone,Southampton,Mitchell Henry Michael,Male,Men,"Mitchell, Mr. Henry Michael",Second Class,Died,70,0,10.5,
+31,Alone,Southampton,Wilhelms Charles,Male,Men,"Wilhelms, Mr. Charles",Second Class,Survived,31,0,13,1
+18,Alone,Southampton,Edvardsson Gustaf Hjalmar,Male,Men,"Edvardsson, Mr. Gustaf Hjalmar",Third Class,Died,18,0,7.775,
+25,Alone,Southampton,Sawyer Frederick Charles,Male,Men,"Sawyer, Mr. Frederick Charles",Third Class,Died,25,0,8.05,
+18,Alone,Southampton,Turja Anna Sofia,Female,Women,"Turja, Miss. Anna Sofia",Third Class,Survived,18,0,9.8417,1
+43,Family,Southampton,Goodwin Frederick,Female,Women,"Goodwin, Mrs. Frederick (Augusta Tyler)",Third Class,Died,43,7,46.9,
+20,Alone,Southampton,Olsvigen Thor Anderson,Male,Men,"Olsvigen, Mr. Thor Anderson",Third Class,Died,20,0,9.225,
+14,Family,Southampton,Goodwin Charles Edward,Male,Children,"Goodwin, Mr. Charles Edward",Third Class,Died,14,7,46.9,
+60,Family,Southampton,Brown Thomas William Solomon,Male,Men,"Brown, Mr. Thomas William Solomon",Second Class,Died,60,2,39,
+14,Family,Southampton,Panula Jaako Arnold,Male,Children,"Panula, Mr. Jaako Arnold",Third Class,Died,14,5,39.6875,
+19,Alone,Southampton,Dakic Branko,Male,Men,"Dakic, Mr. Branko",Third Class,Died,19,0,10.1708,
+18,Alone,Southampton,Fischer Eberhard Thelander,Male,Men,"Fischer, Mr. Eberhard Thelander",Third Class,Died,18,0,7.7958,
+15,Family,Southampton,Madill Georgette Alexandra,Female,Children,"Madill, Miss. Georgette Alexandra",First Class,Survived,15,1,211.3375,1
+31,Family,Southampton,Dick Albert Adrian,Male,Men,"Dick, Mr. Albert Adrian",First Class,Survived,31,1,57,1
+60,Alone,Southampton,Weir John,Male,Men,"Weir, Col. John",First Class,Died,60,0,26.55,
+52,Alone,Southampton,Chapman Charles Henry,Male,Men,"Chapman, Mr. Charles Henry",Second Class,Died,52,0,13.5,
+44,Alone,Southampton,Kelly James,Male,Men,"Kelly, Mr. James",Third Class,Died,44,0,8.05,
+42,Alone,Southampton,Humblen Adolf Mathias Nicolai Olsen,Male,Men,"Humblen, Mr. Adolf Mathias Nicolai Olsen",Third Class,Died,42,0,7.65,
+35,Alone,Southampton,Silverthorne Spencer Victor,Male,Men,"Silverthorne, Mr. Spencer Victor",First Class,Survived,35,0,26.2875,1
+26,Family,Southampton,Hansen Henrik Juul,Male,Men,"Hansen, Mr. Henrik Juul",Third Class,Died,26,1,7.8542,
+39,Alone,Southampton,Morley Henry Samuel,Male,Men,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",Second Class,Died,39,0,26,
+45,Alone,Southampton,"Kelly Florence ""Fannie""",Female,Women,"Kelly, Mrs. Florence ""Fannie""",Second Class,Survived,45,0,13.5,1
+42,Alone,Southampton,Calderhead Edward Pennington,Male,Men,"Calderhead, Mr. Edward Pennington",First Class,Survived,42,0,26.2875,1
+22,Alone,Southampton,Cleaver Alice,Female,Women,"Cleaver, Miss. Alice",First Class,Survived,22,0,151.55,1
+48,Family,Southampton,Taylor Elmer Zebley,Male,Men,"Taylor, Mr. Elmer Zebley",First Class,Survived,48,1,52,1
+29,Alone,Southampton,Larsson August Viktor,Male,Men,"Larsson, Mr. August Viktor",Third Class,Died,29,0,9.4833,
+52,Alone,Southampton,Greenberg Samuel,Male,Men,"Greenberg, Mr. Samuel",Second Class,Died,52,0,13,
+19,Alone,Southampton,Soholt Peter Andreas Lauritz Andersen,Male,Men,"Soholt, Mr. Peter Andreas Lauritz Andersen",Third Class,Died,19,0,7.65,
+27,Alone,Southampton,"Troutt Edwina Celia ""Winnie""",Female,Women,"Troutt, Miss. Edwina Celia ""Winnie""",Second Class,Survived,27,0,10.5,1
+33,Alone,Southampton,Johnson Malkolm Joackim,Male,Men,"Johnson, Mr. Malkolm Joackim",Third Class,Died,33,0,7.775,
+6,Family,Southampton,"Harper Annie Jessie ""Nina""",Female,Children,"Harper, Miss. Annie Jessie ""Nina""",Second Class,Survived,6,1,33,1
+17,Family,Southampton,Jensen Svend Lauritz,Male,Children,"Jensen, Mr. Svend Lauritz",Third Class,Died,17,1,7.0542,
+34,Alone,Southampton,Gillespie William Henry,Male,Men,"Gillespie, Mr. William Henry",Second Class,Died,34,0,13,
+50,Alone,Southampton,Hodges Henry Price,Male,Men,"Hodges, Mr. Henry Price",Second Class,Died,50,0,13,
+27,Family,Southampton,Chambers Norman Campbell,Male,Men,"Chambers, Mr. Norman Campbell",First Class,Survived,27,1,53.1,1
+20,Alone,Southampton,Oreskovic Luka,Male,Men,"Oreskovic, Mr. Luka",Third Class,Died,20,0,8.6625,
+30,Family,Southampton,Renouf Peter Henry,Female,Women,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",Second Class,Survived,30,3,21,1
+25,Family,Southampton,Bryhl Kurt Arnold Gottfrid,Male,Men,"Bryhl, Mr. Kurt Arnold Gottfrid",Second Class,Died,25,1,26,
+25,Family,Southampton,Ilmakangas Pieta Sofia,Female,Women,"Ilmakangas, Miss. Pieta Sofia",Third Class,Died,25,1,7.925,
+29,Alone,Southampton,Allen Elisabeth Walton,Female,Women,"Allen, Miss. Elisabeth Walton",First Class,Survived,29,0,211.3375,1
+23,Alone,Southampton,Berriman William John,Male,Men,"Berriman, Mr. William John",Second Class,Died,23,0,13,
+23,Alone,Southampton,Troupiansky Moses Aaron,Male,Men,"Troupiansky, Mr. Moses Aaron",Second Class,Died,23,0,13,
+29,Alone,Southampton,Williams Leslie,Male,Men,"Williams, Mr. Leslie",Third Class,Died,29,0,16.1,
+48,Family,Southampton,Ford Edward,Female,Women,"Ford, Mrs. Edward (Margaret Ann Watson)",Third Class,Died,48,4,34.375,
+36,Family,Southampton,Cavendish Tyrell William,Male,Men,"Cavendish, Mr. Tyrell William",First Class,Died,36,1,78.85,
+24,Family,Southampton,McNamee Neal,Male,Men,"McNamee, Mr. Neal",Third Class,Died,24,1,16.1,
+31,Alone,Southampton,Stranden Juho,Male,Men,"Stranden, Mr. Juho",Third Class,Survived,31,0,7.925,1
+70,Family,Southampton,Crosby Edward Gifford,Male,Men,"Crosby, Capt. Edward Gifford",First Class,Died,70,2,71,
+16,Family,Southampton,Abbott Rossmore Edward,Male,Children,"Abbott, Mr. Rossmore Edward",Third Class,Died,16,2,20.25,
+30,Alone,Southampton,Sinkkonen Anna,Female,Women,"Sinkkonen, Miss. Anna",Second Class,Survived,30,0,13,1
+19,Family,Southampton,Marvin Daniel Warner,Male,Men,"Marvin, Mr. Daniel Warner",First Class,Died,19,1,53.1,
+4,Family,Southampton,Wells Joan,Female,Children,"Wells, Miss. Joan",Second Class,Survived,4,2,23,1
+6,Family,Southampton,Moor Meier,Male,Children,"Moor, Master. Meier",Third Class,Survived,6,1,12.475,1
+33,Alone,Southampton,Vande Velde Johannes Joseph,Male,Men,"Vande Velde, Mr. Johannes Joseph",Third Class,Died,33,0,9.5,
+23,Alone,Southampton,Jonkoff Lalio,Male,Men,"Jonkoff, Mr. Lalio",Third Class,Died,23,0,7.8958,
+48,Family,Southampton,Herman Samuel,Female,Women,"Herman, Mrs. Samuel (Jane Laver)",Second Class,Survived,48,3,65,1
+1,Family,Southampton,Hamalainen Viljo,Male,Children,"Hamalainen, Master. Viljo",Second Class,Survived,1,2,14.5,1
+28,Alone,Southampton,Carlsson August Sigfrid,Male,Men,"Carlsson, Mr. August Sigfrid",Third Class,Died,28,0,7.7958,
+18,Alone,Southampton,Bailey Percy Andrew,Male,Men,"Bailey, Mr. Percy Andrew",Second Class,Died,18,0,11.5,
+34,Alone,Southampton,Theobald Thomas Leonard,Male,Men,"Theobald, Mr. Thomas Leonard",Third Class,Died,34,0,8.05,
+33,Alone,Southampton,Rothes of,Female,Women,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",First Class,Survived,33,0,86.5,1
+41,Alone,Southampton,Nirva Iisakki Antino Aijo,Male,Men,"Nirva, Mr. Iisakki Antino Aijo",Third Class,Died,41,0,7.125,
+36,Family,Southampton,Carter William Ernest,Female,Women,"Carter, Mrs. William Ernest (Lucile Polk)",First Class,Survived,36,3,120,1
+16,Alone,Southampton,Eklund Hans Linus,Male,Children,"Eklund, Mr. Hans Linus",Third Class,Died,16,0,7.775,
+51,Family,Southampton,Hogeboom John C,Female,Women,"Hogeboom, Mrs. John C (Anna Andrews)",First Class,Survived,51,1,77.9583,1
+32,Alone,Southampton,Gronnestad Daniel Danielsen,Male,Men,"Gronnestad, Mr. Daniel Danielsen",Third Class,Died,32,0,8.3625,
+24,Alone,Southampton,Lievens Rene Aime,Male,Men,"Lievens, Mr. Rene Aime",Third Class,Died,24,0,9.5,
+48,Alone,Southampton,Jensen Niels Peder,Male,Men,"Jensen, Mr. Niels Peder",Third Class,Died,48,0,7.8542,
+57,Alone,Southampton,Mack ,Female,Women,"Mack, Mrs. (Mary)",Second Class,Died,57,0,10.5,
+54,Family,Southampton,Hocking Elizabeth,Female,Women,"Hocking, Mrs. Elizabeth (Eliza Needs)",Second Class,Survived,54,4,23,1
+18,Alone,Southampton,Myhrman Pehr Fabian Oliver Malkolm,Male,Men,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",Third Class,Died,18,0,7.75,
+5,Alone,Southampton,Emanuel Virginia Ethel,Female,Children,"Emanuel, Miss. Virginia Ethel",Third Class,Survived,5,0,12.475,1
+43,Family,Southampton,Robert Edward Scott,Female,Women,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",First Class,Survived,43,1,211.3375,1
+17,Family,Southampton,Dick Albert Adrian,Female,Children,"Dick, Mrs. Albert Adrian (Vera Gillespie)",First Class,Survived,17,1,57,1
+29,Alone,Southampton,Long Milton Clyde,Male,Men,"Long, Mr. Milton Clyde",First Class,Died,29,0,30,
+25,Alone,Southampton,Ali William,Male,Men,"Ali, Mr. William",Third Class,Died,25,0,7.05,
+25,Alone,Southampton,Harmer Abraham,Male,Men,"Harmer, Mr. Abraham (David Lishin)",Third Class,Died,25,0,7.25,
+18,Alone,Southampton,Sjoblom Anna Sofia,Female,Women,"Sjoblom, Miss. Anna Sofia",Third Class,Survived,18,0,7.4958,1
+1,Family,Southampton,Dean Bertram Vere,Male,Children,"Dean, Master. Bertram Vere",Third Class,Survived,1,3,20.575,1
+16,Alone,Southampton,Gaskell Alfred,Male,Children,"Gaskell, Mr. Alfred",Second Class,Died,16,0,26,
+25,Alone,Southampton,Dantcheff Ristiu,Male,Men,"Dantcheff, Mr. Ristiu",Third Class,Died,25,0,7.8958,
+39,Alone,Southampton,Otter Richard,Male,Men,"Otter, Mr. Richard",Second Class,Died,39,0,13,
+49,Alone,Southampton,Leader Alice,Female,Women,"Leader, Dr. Alice (Farnham)",First Class,Survived,49,0,25.9292,1
+31,Alone,Southampton,Osman Mara,Female,Women,"Osman, Mrs. Mara",Third Class,Survived,31,0,8.6833,1
+30,Family,Southampton,Van Impe Jean Baptiste,Female,Women,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",Third Class,Died,30,2,24.15,
+34,Alone,Southampton,Ponesell Martin,Male,Men,"Ponesell, Mr. Martin",Second Class,Died,34,0,13,
+31,Family,Southampton,Collyer Harvey,Female,Women,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",Second Class,Survived,31,2,26.25,1
+11,Family,Southampton,Carter William Thornton II,Male,Children,"Carter, Master. William Thornton II",First Class,Survived,11,3,120,1
+27,Alone,Southampton,Hedman Oskar Arvid,Male,Men,"Hedman, Mr. Oskar Arvid",Third Class,Survived,27,0,6.975,1
+31,Alone,Southampton,Johansson Karl Johan,Male,Men,"Johansson, Mr. Karl Johan",Third Class,Died,31,0,7.775,
+39,Alone,Southampton,Andrews Thomas Jr,Male,Men,"Andrews, Mr. Thomas Jr",First Class,Died,39,0,0,
+18,Alone,Southampton,Pettersson Ellen Natalia,Female,Women,"Pettersson, Miss. Ellen Natalia",Third Class,Died,18,0,7.775,
+39,Alone,Southampton,Meyer August,Male,Men,"Meyer, Mr. August",Second Class,Died,39,0,13,
+33,Family,Southampton,Chambers Norman Campbell,Female,Women,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",First Class,Survived,33,1,53.1,1
+26,Alone,Southampton,Alexander William,Male,Men,"Alexander, Mr. William",Third Class,Died,26,0,7.8875,
+39,Alone,Southampton,Lester James,Male,Men,"Lester, Mr. James",Third Class,Died,39,0,24.15,
+35,Alone,Southampton,Slemen Richard James,Male,Men,"Slemen, Mr. Richard James",Second Class,Died,35,0,10.5,
+6,Family,Southampton,Andersson Ebba Iris Alfrida,Female,Children,"Andersson, Miss. Ebba Iris Alfrida",Third Class,Died,6,6,31.275,
+31,Alone,Southampton,Tomlin Ernest Portage,Male,Men,"Tomlin, Mr. Ernest Portage",Third Class,Died,31,0,8.05,
+23,Alone,Southampton,Heininen Wendla Maria,Female,Women,"Heininen, Miss. Wendla Maria",Third Class,Died,23,0,7.925,
+43,Alone,Southampton,Holm John Fredrik Alexander,Male,Men,"Holm, Mr. John Fredrik Alexander",Third Class,Died,43,0,6.45,
+10,Family,Southampton,Skoog Karl Thorsten,Male,Children,"Skoog, Master. Karl Thorsten",Third Class,Died,10,5,27.9,
+52,Family,Southampton,Hays Charles Melville,Female,Women,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",First Class,Survived,52,2,93.5,1
+27,Alone,Southampton,Lulic Nikola,Male,Men,"Lulic, Mr. Nikola",Third Class,Survived,27,0,8.6625,1
+38,Alone,Southampton,Reuchlin John George,Male,Men,"Reuchlin, Jonkheer. John George",First Class,Died,38,0,0,
+27,Family,Southampton,Moor ,Female,Women,"Moor, Mrs. (Beila)",Third Class,Survived,27,1,12.475,1
+2,Family,Southampton,Panula Urho Abraham,Male,Children,"Panula, Master. Urho Abraham",Third Class,Died,2,5,39.6875,
+1,Family,Southampton,Richards George Sibley,Male,Children,"Richards, Master. George Sibley",Second Class,Survived,1,2,18.75,1
+23,Alone,Southampton,Augustsson Albert,Male,Men,"Augustsson, Mr. Albert",Third Class,Died,23,0,7.8542,
+18,Alone,Southampton,Allum Owen George,Male,Men,"Allum, Mr. Owen George",Third Class,Died,18,0,8.3,
+21,Alone,Southampton,Pasic Jakob,Male,Men,"Pasic, Mr. Jakob",Third Class,Died,21,0,8.6625,
+32,Alone,Southampton,Chip Chang,Male,Men,"Chip, Mr. Chang",Third Class,Survived,32,0,56.4958,1
+20,Alone,Southampton,Alhomaki Ilmari Rudolf,Male,Men,"Alhomaki, Mr. Ilmari Rudolf",Third Class,Died,20,0,7.925,
+16,Alone,Southampton,Mudd Thomas Charles,Male,Children,"Mudd, Mr. Thomas Charles",Second Class,Died,16,0,10.5,
+17,Alone,Southampton,Culumovic Jeso,Male,Children,"Culumovic, Mr. Jeso",Third Class,Died,17,0,8.6625,
+42,Alone,Southampton,Abbing Anthony,Male,Men,"Abbing, Mr. Anthony",Third Class,Died,42,0,7.55,
+28,Family,Southampton,Harper John,Male,Men,"Harper, Rev. John",Second Class,Died,28,1,33,
+4,Family,Southampton,Andersson Sigvard Harald Elias,Male,Children,"Andersson, Master. Sigvard Harald Elias",Third Class,Died,4,6,31.275,
+74,Alone,Southampton,Svensson Johan,Male,Men,"Svensson, Mr. Johan",Third Class,Died,74,0,7.775,
+16,Family,Southampton,Lines Mary Conover,Female,Children,"Lines, Miss. Mary Conover",First Class,Survived,16,1,39.4,1
+44,Family,Southampton,Carter Ernest Courtenay,Female,Women,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",Second Class,Died,44,1,26,
+18,Family,Southampton,Aks Sam,Female,Women,"Aks, Mrs. Sam (Leah Rosen)",Third Class,Survived,18,1,9.35,1
+45,Family,Southampton,Wick George Dennick,Female,Women,"Wick, Mrs. George Dennick (Mary Hitchcock)",First Class,Survived,45,2,164.8667,1
+51,Alone,Southampton,Daly Peter Denis,Male,Men,"Daly, Mr. Peter Denis",First Class,Survived,51,0,26.55,1
+41,Family,Southampton,Hansen Claus Peter,Male,Men,"Hansen, Mr. Claus Peter",Third Class,Died,41,2,14.1083,
+21,Family,Southampton,Giles Frederick Edward,Male,Men,"Giles, Mr. Frederick Edward",Second Class,Died,21,1,11.5,
+48,Alone,Southampton,Swift Frederick Joel,Female,Women,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",First Class,Survived,48,0,25.9292,1
+24,Alone,Southampton,Gill John William,Male,Men,"Gill, Mr. John William",Second Class,Died,24,0,13,
+42,Alone,Southampton,Bystrom ,Female,Women,"Bystrom, Mrs. (Karolina)",Second Class,Survived,42,0,13,1
+31,Alone,Southampton,Roebling Washington Augustus II,Male,Men,"Roebling, Mr. Washington Augustus II",First Class,Died,31,0,50.4958,
+4,Family,Southampton,Johnson Harold Theodor,Male,Children,"Johnson, Master. Harold Theodor",Third Class,Survived,4,2,11.1333,1
+26,Alone,Southampton,Balkic Cerin,Male,Men,"Balkic, Mr. Cerin",Third Class,Died,26,0,7.8958,
+47,Family,Southampton,Beckwith Richard Leonard,Female,Women,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",First Class,Survived,47,2,52.5542,1
+33,Alone,Southampton,Carlsson Frans Olof,Male,Men,"Carlsson, Mr. Frans Olof",First Class,Died,33,0,5,
+47,Alone,Southampton,Vander Cruyssen Victor,Male,Men,"Vander Cruyssen, Mr. Victor",Third Class,Died,47,0,9,
+20,Alone,Southampton,Gustafsson Alfred Ossian,Male,Men,"Gustafsson, Mr. Alfred Ossian",Third Class,Died,20,0,9.8458,
+19,Alone,Southampton,Petroff Nedelio,Male,Men,"Petroff, Mr. Nedelio",Third Class,Died,19,0,7.8958,
+25,Family,Southampton,Shelley William,Female,Women,"Shelley, Mrs. William (Imanita Parrish Hall)",Second Class,Survived,25,1,26,1
+33,Alone,Southampton,Markun Johann,Male,Men,"Markun, Mr. Johann",Third Class,Died,33,0,7.8958,
+22,Alone,Southampton,Dahlberg Gerda Ulrika,Female,Women,"Dahlberg, Miss. Gerda Ulrika",Third Class,Died,22,0,10.5167,
+28,Alone,Southampton,Banfield Frederick James,Male,Men,"Banfield, Mr. Frederick James",Second Class,Died,28,0,10.5,
+25,Alone,Southampton,Sutehall Henry Jr,Male,Men,"Sutehall, Mr. Henry Jr",Third Class,Died,25,0,7.05,
+27,Alone,Southampton,Montvila Juozas,Male,Men,"Montvila, Rev. Juozas",Second Class,Died,27,0,13,
+19,Alone,Southampton,Graham Margaret Edith,Female,Women,"Graham, Miss. Margaret Edith",First Class,Survived,19,0,30,1
